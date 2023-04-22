@@ -1,0 +1,5 @@
+POTENTIOMETER
+Po*ten`ti*om"e*ter, n. Etym: [Potential + -meter.] (Elec.)
+
+Defn: An instrument for measuring or comparing electrial potentials
+or electro-motive forces.
