@@ -1,5 +1,0 @@
-PHASING TRANSFORMER
-Phasing transformer.
-
-Defn: Any of several transformers (there must be at least two) for
-changing phase.
