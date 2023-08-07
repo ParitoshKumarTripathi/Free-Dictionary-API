@@ -1,0 +1,5 @@
+LIMACON
+Li`ma`con", n. Etym: [F. limacon, lit., a snail.] (Geom.)
+
+Defn: A curve of the fourth degree, invented by Pascal. Its polar
+equation is r = a cos + b.

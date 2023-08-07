@@ -1,0 +1,4 @@
+SCULK; SCULKER
+Sculk, Sculk"er.
+
+Defn: See Skulk, Skulker.

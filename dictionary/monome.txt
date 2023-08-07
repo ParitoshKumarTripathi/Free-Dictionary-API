@@ -1,0 +1,5 @@
+MONOME
+Mon"ome, n. Etym: [F., fr. Gr. -nome as in binome. See Binomial.]
+(Math.)
+
+Defn: A monomial.

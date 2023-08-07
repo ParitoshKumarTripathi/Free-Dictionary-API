@@ -1,0 +1,5 @@
+WET-BULB THERMOMETER
+Wet-bulb thermometer. (Physics)
+
+Defn: That one of the two similar thermometers of a psychrometer the
+bulb of which is moistened; also, the entire instrument.

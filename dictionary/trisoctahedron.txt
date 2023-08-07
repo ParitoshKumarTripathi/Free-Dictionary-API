@@ -1,0 +1,9 @@
+TRISOCTAHEDRON
+Tris*oc`ta*he"dron, n. Etym: [Gr. octahedron.] (Crystallog.)
+
+Defn: A solid of the isometric system bounded by twenty-four equal
+faces, three corresponding to each face of an octahedron. Tetragonal
+trisoctahedron, a trisoctahedron each face of which is a
+quadrilateral; called also trapezohedron and icositetrahedron.
+ -- Trigonal trisoctahedron, a trisoctahedron each face of which is
+an isosceles triangle.

@@ -1,0 +1,5 @@
+STREAM CLOCK
+Stream clock. (Physiol.)
+
+Defn: An instrument for ascertaining the velocity of the blood in a
+vessel.

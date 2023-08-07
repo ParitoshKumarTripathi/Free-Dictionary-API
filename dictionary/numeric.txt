@@ -1,0 +1,6 @@
+NUMERIC
+Nu*mer"ic, n. (Math.)
+
+Defn: Any number, proper or improper fraction, or incommensurable
+ratio. The term also includes any imaginary expression like m + nsq.
+root-1, where m and n are real numerics.

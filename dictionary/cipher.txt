@@ -1,0 +1,56 @@
+CIPHER
+Ci"pher, n. Etym: [OF. cifre zero, F. Chiffre figure (cf. Sp.cifra,
+LL. cifra), fr. Ar. çifrun, çafrun, empty, cipher, zero, fr. çafira
+to be empty. Cf. Zero.]
+
+1. (Arith.)
+
+Defn: A character [0] which, standing by itself, expresses nothing,
+but when placed at the right hand of a whole number, increases its
+value tenfold.
+
+2. One who, or that which, has no weight or influence.
+Here he was a mere cipher. W. Irving.
+
+3. A character in general, as a figure or letter. [Obs.]
+This wisdom began to be written in ciphers and characters and letters
+bearing the forms of creatures. Sir W. Raleigh.
+
+4. A combination or interweaving of letters, as the initials of a
+name; a device; a monogram; as, a painter's cipher, an engraver's
+cipher, etc. The cut represents the initials N. W.
+
+5. A private alphabet, system of characters, or other mode of
+writing, contrived for the safe transmission of secrets; also, a
+writing in such characters.
+His father . . . engaged him when he was very young to write all his
+letters to England in cipher. Bp. Burnet.
+Cipher key, a key to assist in reading writings in cipher.
+CIPHER
+
+=====
+Ci"pher, a.
+
+Defn: Of the nature of a cipher; of no weight or influence. "Twelve
+cipher bishops." Milton.
+CIPHER
+
+=====
+Ci"pher, v. i. [imp. & p. p. Ciphered; p. pr. & vb. n. Ciphering.]
+
+Defn: To use figures in a mathematical process; to do sums in
+arithmetic.
+"T was certain he could write and cipher too. Goldsmith.
+CIPHER
+
+=====
+Ci"pher, v. t.
+
+1. To write in occult characters.
+His notes he ciphered with Greek characters. Hayward.
+
+2. To get by ciphering; as, to cipher out the answer.
+
+3. To decipher. [Obs.] Shak.
+
+4. To designate by characters. [Obs.] Shak.

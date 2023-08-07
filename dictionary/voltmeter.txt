@@ -1,0 +1,5 @@
+VOLTMETER
+Volt"me`ter, n. Etym: [2d volt + -meter.] (elec.)
+
+Defn: An instrument for measuring in volts the differences of
+potential between different points of an electrical circuit.

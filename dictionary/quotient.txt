@@ -1,0 +1,14 @@
+QUOTIENT
+Quo"tient, n. Etym: [F., fr. L. quoties how often, how many times,
+fr. quot how many. See Quota.]
+
+1. (Arith.)
+
+Defn: The number resulting from the division of one number by
+another, and showing how often a less number is contained in a
+greater; thus, the quotient of twelve divided by four is three.
+
+2. (Higher Alg.)
+
+Defn: The result of any process inverse to multiplication. See the
+Note under Multiplication.

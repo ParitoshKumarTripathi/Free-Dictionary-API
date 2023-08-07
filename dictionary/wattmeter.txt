@@ -1,0 +1,5 @@
+WATTMETER
+Watt"me`ter, n. Etym: [Watt + meter.] (Physics)
+
+Defn: An instrument for measuring power in watts, -- much used in
+measuring the energy of an electric current.

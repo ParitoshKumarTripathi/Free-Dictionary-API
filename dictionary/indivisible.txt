@@ -1,0 +1,27 @@
+INDIVISIBLE
+In`di*vis"i*ble, a. Etym: [L. indivisibilis: cf. F. indivisible. See
+In- not, and Divisible.]
+
+1. Not divisible; incapable of being divided, separated, or broken;
+not separable into parts. "One indivisible point of time." Dryden.
+
+2. (Math.)
+
+Defn: Not capable of exact division, as one quantity by another;
+incommensurable.
+INDIVISIBLE
+
+=====
+In`di*vis"i*ble, n.
+
+1. That which is indivisible.
+By atom, nobody will imagine we intend to express a perfect
+indivisible, but only the least sort of natural bodies. Digby.
+
+2. (Geom.)
+
+Defn: An infinitely small quantity which is assumed to admit of no
+further division. Method of indivisibles, a kind of calculus,
+formerly in use, in which lines were considered as made up of an
+infinite number of points; surfaces, as made up of an infinite number
+of lines; and volumes, as made up of an infinite number of surfaces.

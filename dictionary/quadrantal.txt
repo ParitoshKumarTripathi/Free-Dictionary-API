@@ -1,0 +1,20 @@
+QUADRANTAL
+Quad*ran"tal, a. Etym: [L. quadrantalis containing the fourth fourth
+part of a measure.] (Geom.)
+
+Defn: Of or pertaining to a quadrant; also, included in the fourth
+part of a circle; as, quadrantal space. Quadrantal triangle, a
+spherical triangle having one side equal to a quadrant or arc of 90º.
+ -- Quadrantal versor, a versor that expresses rotation through one
+right angle.
+QUADRANTAL
+
+=====
+Quad*ran"tal, n. Etym: [L.]
+
+1. (Rom. Antiq.)
+
+Defn: A cubical vessel containing a Roman cubic foot, each side being
+a Roman square foot; -- used as a measure.
+
+2. A cube. [R.]

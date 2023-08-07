@@ -1,0 +1,6 @@
+COSINE
+Co"sine (k"sn), n. Etym: [For co. sinus, an abbrev. of L. complementi
+sinus.] (Trig.)
+
+Defn: The sine of the complement of an arc or angle. See Illust. of
+Functions.

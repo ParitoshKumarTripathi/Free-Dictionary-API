@@ -1,0 +1,5 @@
+MEGOHM
+Meg"ohm", n. Etym: [Mega- + ohm.] (Elec.)
+
+Defn: One of the larger measures of electrical resistance, amounting
+to one million ohms.

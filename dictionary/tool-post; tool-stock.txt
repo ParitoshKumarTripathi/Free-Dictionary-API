@@ -1,0 +1,4 @@
+TOOL-POST; TOOL-STOCK
+Tool"-post`, Tool"-stock`, n. (Mach.)
+
+Defn: The part of a toolrest in which a cutting tool is clamped.

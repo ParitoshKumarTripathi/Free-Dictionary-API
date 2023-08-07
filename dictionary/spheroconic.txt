@@ -1,0 +1,6 @@
+SPHEROCONIC
+Sphe`ro*con"ic, n. (Geom.)
+
+Defn: A nonplane curve formed by the intersection of the surface of
+an oblique cone with the surface of a sphere whose center is at the
+vertex of the cone.

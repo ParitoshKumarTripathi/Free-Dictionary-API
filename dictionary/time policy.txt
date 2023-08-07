@@ -1,0 +1,5 @@
+TIME POLICY
+Time policy. (Insurance)
+
+Defn: A policy limited to become void at a specified time; -- often
+contrasted with voyage policy.

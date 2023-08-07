@@ -1,0 +1,5 @@
+Y CURRENT
+Y current. (Elec.)
+
+Defn: The current through one branch of the star arrangement of a
+three-phase circuit.

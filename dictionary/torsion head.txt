@@ -1,0 +1,5 @@
+TORSION HEAD
+Torsion head.
+
+Defn: That part of a torsion balance from which the wire or filament
+is suspended.

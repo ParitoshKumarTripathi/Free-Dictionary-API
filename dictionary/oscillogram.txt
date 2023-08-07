@@ -1,0 +1,4 @@
+OSCILLOGRAM
+Os"cil*lo*gram, n. [L. oscillare + -gram.] (Elec.)
+
+Defn: An autographic record made by an oscillograph.

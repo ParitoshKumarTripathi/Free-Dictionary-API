@@ -1,0 +1,7 @@
+MAGNETOMETER
+Mag`net*om"e*ter, n. Etym: [Magneto- + -meter: cf. F. magnétomètre.]
+(Physics)
+
+Defn: An instrument for measuring the intensity of magnetic forces;
+also, less frequently, an instrument for determining any of the
+terrestrial magnetic elements, as the dip and declination.

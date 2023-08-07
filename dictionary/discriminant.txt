@@ -1,0 +1,6 @@
+DISCRIMINANT
+Dis*crim"i*nant, n. Etym: [L. discriminans, p. pr. of discriminare.]
+(Math.)
+
+Defn: The eliminant of the n partial differentials of any homogenous
+function of n variables. See Eliminant.

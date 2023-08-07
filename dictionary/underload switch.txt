@@ -1,0 +1,6 @@
+UNDERLOAD SWITCH
+Underload switch. (Elec.)
+
+Defn: A switch which opens a circuit when the current falls below a
+certain predetermined value, used to protect certain types of motors
+from running at excessive speed upon decrease of load.

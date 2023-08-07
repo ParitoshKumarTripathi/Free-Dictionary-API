@@ -1,0 +1,6 @@
+PROSYLOGISM
+Pro*sy"lo*gism, n. Etym: [Pref. pro- + syllogism.] (Logic)
+
+Defn: A syllogism preliminary or logically essential to another
+syllogism; the conclusion of such a syllogism, which becomes a
+premise of the following syllogism.

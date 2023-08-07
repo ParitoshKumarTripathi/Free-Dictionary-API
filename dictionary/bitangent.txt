@@ -1,0 +1,7 @@
+BITANGENT
+Bi*tan"gent, a. Etym: [Pref. bi- + tangent.] (Geom.)
+
+Defn: Possessing the property of touching at two points.
+ -- n.
+
+Defn: A line that touches a curve in two points.

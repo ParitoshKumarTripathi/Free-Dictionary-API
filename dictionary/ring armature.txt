@@ -1,0 +1,5 @@
+RING ARMATURE
+Ring armature. (Elec.)
+
+Defn: An armature for a dynamo or motor having the conductors wound
+on a ring.

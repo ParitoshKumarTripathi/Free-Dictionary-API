@@ -1,0 +1,6 @@
+COTANGENT
+Co*tan"gent (k-tn"jent), n. Etym: [For co. tangens, an abbrev. of L.
+complementi tangens. See Tangent.] (Trig.)
+
+Defn: The tangent of the complement of an arc or angle. See Illust.
+of Functions.

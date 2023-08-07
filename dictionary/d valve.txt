@@ -1,0 +1,4 @@
+D VALVE
+D" valve`. (Mech.)
+
+Defn: A kind of slide valve. See Slide valve, under Slide.

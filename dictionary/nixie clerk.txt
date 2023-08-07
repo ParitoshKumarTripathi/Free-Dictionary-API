@@ -1,0 +1,4 @@
+NIXIE CLERK
+Nixie clerk.
+
+Defn: A post-office clerk in charge of the nixies.

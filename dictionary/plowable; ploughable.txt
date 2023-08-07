@@ -1,0 +1,4 @@
+PLOWABLE; PLOUGHABLE
+Plow"a*ble, Plough"a*ble, a.
+
+Defn: Capable of being plowed; arable.

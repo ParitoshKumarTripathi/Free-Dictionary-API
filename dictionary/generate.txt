@@ -1,0 +1,20 @@
+GENERATE
+Gen"er*ate, v. t. [imp. & p. p. Generated; p. pr. & vb. n.
+Generating.] Etym: [L. generatus, p. p. of generare to generate, fr.
+genus. See Genus, Gender.]
+
+1. To beget; to procreate; to propagate; to produce (a being similar
+to the parent); to engender; as, every animal generates its own
+species.
+
+2. To cause to be; to bring into life. Milton.
+
+3. To originate, especially by a vital or chemical process; to
+produce; to cause.
+Whatever generates a quantity of good chyle must likewise generate
+milk. Arbuthnot.
+
+4. (Math.)
+
+Defn: To trace out, as a line, figure, or solid, by the motion of a
+point or a magnitude of inferior order.

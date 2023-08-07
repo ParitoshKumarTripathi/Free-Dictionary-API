@@ -1,0 +1,5 @@
+VOLUMETER
+Vol*u"me*ter, n. Etym: [Cf. F. volumètre. See Volumetric.] (Physics)
+
+Defn: An instrument for measuring the volumes of gases or liquids by
+introducing them into a vessel of known capacity.

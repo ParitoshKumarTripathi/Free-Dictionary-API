@@ -1,0 +1,11 @@
+QUARTIC
+Quar"tic, a. Etym: [L.quartus fourth.] (Mach.)
+
+Defn: Of the fourth degree.
+QUARTIC
+
+=====
+Quar"tic, n.
+(a) (Alg.) A quantic of the fourth degree. See Quantic.
+(b) (Geom.) A curve or surface whose equation is of the fourth degree
+in the variables.

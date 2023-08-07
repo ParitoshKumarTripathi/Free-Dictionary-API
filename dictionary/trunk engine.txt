@@ -1,0 +1,5 @@
+TRUNK ENGINE
+Trunk engine.
+
+Defn: An engine having a trunk piston, as most internal combustion
+engines.

@@ -1,0 +1,13 @@
+ISOPYCNIC
+I`so*pyc"nic, a. Etym: [Iso- + Gr. pykno`s dense.] (Physics)
+
+Defn: Having equal density, as different regions of a medium; passing
+through points at which the density is equal; as, an isopycnic line
+or surface.
+ISOPYCNIC
+
+=====
+I`so*pyc"nic, n. (Physics)
+
+Defn: A line or surface passing through those points in a medium, at
+which the density is the same.

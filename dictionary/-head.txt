@@ -1,0 +1,4 @@
+-HEAD
+-head, suffix.
+
+Defn: A variant of -hood.

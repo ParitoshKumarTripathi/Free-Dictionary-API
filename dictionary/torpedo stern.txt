@@ -1,0 +1,6 @@
+TORPEDO STERN
+Torpedo stern.
+
+Defn: A broad stern without overhang, flattened on the bottom, used
+in some torpedo and fast power boats. It prevents settling in the
+water at high speed.

@@ -1,0 +1,6 @@
+SPLIT DYNAMOMETER
+Split dynamometer. (Elec.)
+
+Defn: An electric dynamometer having two coils so arranged that one
+carries the primary current, and the other the secondary current, of
+a transformer.

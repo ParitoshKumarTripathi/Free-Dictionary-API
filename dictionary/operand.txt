@@ -1,0 +1,6 @@
+OPERAND
+Op"er*and, n. Etym: [From neuter of L. operandus, gerundive of
+operari. See Operate.] (Math.)
+
+Defn: The symbol, quantity, or thing upon which a mathematical
+operation is performed; -- called also faciend.

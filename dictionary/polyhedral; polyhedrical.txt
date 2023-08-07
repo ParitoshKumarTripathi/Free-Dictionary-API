@@ -1,0 +1,5 @@
+POLYHEDRAL; POLYHEDRICAL
+Pol`y*he"dral, Pol`y*hed"ric*al, a. Etym: [See Polyhedron.] (Geom.)
+
+Defn: Having many sides, as a solid body. Polyhedral angle, an angle
+bounded by three or more plane angles having a common vertex.

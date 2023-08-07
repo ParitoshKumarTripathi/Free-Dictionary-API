@@ -1,0 +1,4 @@
+PARALLEL TRANSFORMER
+Parallel transformer. (Elec.)
+
+Defn: A transformer connected in parallel.

@@ -1,0 +1,5 @@
+PILOT BALLOON
+Pilot balloon.
+
+Defn: A small, unmanned balloon sent up to indicate the direction of
+air currents.

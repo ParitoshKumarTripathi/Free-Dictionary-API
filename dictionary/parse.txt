@@ -1,0 +1,10 @@
+PARSE
+Parse, v. t. [imp. & p. p. Parsed; p. pr. & vb. n. Parsing.] Etym:
+[L. pars a part; pars orationis a part of speech. See Part, n.]
+(Gram.)
+
+Defn: To resolve into its elements, as a sentence, pointing out the
+several parts of speech, and their relation to each other by
+government or agreement; to analyze and describe grammatically.
+Let him construe the letter into English, and parse it over
+perfectly. Ascham.

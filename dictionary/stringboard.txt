@@ -1,0 +1,4 @@
+STRINGBOARD
+String"board`, n.
+
+Defn: Same as Stringpiece.

@@ -1,0 +1,7 @@
+WATT
+Watt, n. Etym: [From the distinguished mechanician and scientist,
+James Watt.] (Physics)
+
+Defn: A unit of power or activity equal to 107 C.G.S. units of power,
+or to work done at the rate of one joule a second. An English horse
+power is approximately equal to 746 watts.

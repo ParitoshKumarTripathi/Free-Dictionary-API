@@ -1,0 +1,5 @@
+GAUSSAGE
+Gauss"age, n. (Elec.)
+
+Defn: The intensity of a magnetic field expressed in C.G.S. units, or
+gausses.

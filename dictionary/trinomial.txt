@@ -1,0 +1,13 @@
+TRINOMIAL
+Tri*no"mi*al, n. Etym: [Pref. tri- + -nomial as in binomial: cf. F.
+trinôme.] (Math.)
+
+Defn: A quantity consisting of three terms, connected by the sign +
+or -; as, x + y + z, or ax + 2b - c2.
+TRINOMIAL
+
+=====
+Tri*no"mi*al, a. (Math.)
+
+Defn: Consisting of three terms; of or pertaining to trinomials; as,
+a trinomial root.

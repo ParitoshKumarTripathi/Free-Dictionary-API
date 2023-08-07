@@ -1,0 +1,5 @@
+PASSIVE FLIGHT
+Passive flight.
+
+Defn: Flight, such as gliding and soaring, accomplished without the
+use of motive power.

@@ -1,0 +1,4 @@
+DRAG LINE; DRAG ROPE
+Drag line or drag rope . (Aëronautics)
+
+Defn: A guide rope.

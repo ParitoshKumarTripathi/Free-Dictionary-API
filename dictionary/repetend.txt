@@ -1,0 +1,7 @@
+REPETEND
+Rep`e*tend (rp`-tnd"), n. Etym: [L. repetendus to be repeated, fr.
+repetere to repeat.] (Math.)
+
+Defn: That part of a circulating decimal which recurs continually, ad
+infinitum: -- sometimes indicated by a dot over the first and last
+repetend is 283.

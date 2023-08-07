@@ -1,0 +1,6 @@
+DECAGON
+Dec"a*gon, n. Etym: [Pref. deca- + Gr. décagone.] (Geom.)
+
+Defn: A plane figure having ten sides and ten angles; any figure
+having ten angles. A regular decagon is one that has all its sides
+and angles equal.

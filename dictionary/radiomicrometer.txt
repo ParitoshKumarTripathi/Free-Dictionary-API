@@ -1,0 +1,5 @@
+RADIOMICROMETER
+Ra`di*o*mi*crom"e*ter, n. Etym: [Radio- + micrometer.] (Physics)
+
+Defn: A very sensitive modification or application of the thermopile,
+used for indicating minute changes of radiant heat, or temperature.

@@ -1,0 +1,6 @@
+OBLONGUM
+Ob*lon"gum, n.; pl. Oblonga. Etym: [NL. See Oblong.] (Geom.)
+
+Defn: A prolate spheroid; a figure described by the revolution of an
+ellipse about its greater axis. Cf. Oblatum, and see Ellipsoid of
+revolution, under Ellipsoid.

@@ -1,0 +1,4 @@
+PASS-KEY
+Pass"-key`, n.
+
+Defn: A key for opening more locks than one; a master key.

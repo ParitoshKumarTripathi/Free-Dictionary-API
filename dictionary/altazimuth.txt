@@ -1,0 +1,4 @@
+ALTAZIMUTH
+Alt*az"i*muth, n. Etym: [Alltude + azimuth.] (Astron.)
+
+Defn: An instrument for taking azimuths and altitudes simultaneously.

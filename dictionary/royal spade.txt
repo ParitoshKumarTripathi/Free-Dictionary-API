@@ -1,0 +1,6 @@
+ROYAL SPADE
+Royal spade. (Auction Bridge)
+
+Defn: A spade when spades are trumps under the condition that every
+trick over six taken by the successful bidder has a score value of 9;
+-- usually in pl.

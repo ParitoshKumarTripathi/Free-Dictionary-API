@@ -1,0 +1,4 @@
+CIRCUMCENTER
+Cir`cum*cen"ter, n. (Geom.)
+
+Defn: The center of a circle that circumscribes a triangle.

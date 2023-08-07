@@ -1,0 +1,6 @@
+EVAPOROMETER
+E*vap`o*rom"e*ter, n. Etym: [L. evaporare to evaporate + -meter: cf.
+F. évapormètre.] (Physics)
+
+Defn: An instrument for ascertaining the quantity of a fluid
+evaporated in a given time; an atmometer.

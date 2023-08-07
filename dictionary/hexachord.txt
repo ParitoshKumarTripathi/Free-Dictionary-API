@@ -1,0 +1,5 @@
+HEXACHORD
+Hex"a*chord, n. Etym: [Hexa- + Gr. hexacorde.] (Mus.)
+
+Defn: A series of six notes, with a semitone between the third and
+fourth, the other intervals being whole tones.

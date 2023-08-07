@@ -1,0 +1,4 @@
+CARBON TRANSMITTER
+Carbon transmitter.
+
+Defn: A telephone transmitter in which a carbon contact is used.

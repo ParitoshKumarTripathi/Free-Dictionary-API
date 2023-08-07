@@ -1,0 +1,4 @@
+TOOL-REST
+Tool"-rest`, n. (Mach.)
+
+Defn: the part that supports a tool-post or a tool.

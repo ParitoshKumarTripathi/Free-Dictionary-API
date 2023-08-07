@@ -1,0 +1,6 @@
+-POD
+-pod. Etym: [See Foot.]
+
+Defn: A combining form or suffix from Gr. poy`s, podo`s, foot; as,
+decapod, an animal having ten feet; phyllopod, an animal having
+leaflike feet; myriapod, hexapod.

@@ -1,0 +1,6 @@
+SPEED COUNTER
+Speed counter. (Mach.)
+
+Defn: A device for automatically counting the revolutions or
+pulsations of an engine or other machine; -- called also simply
+counter.

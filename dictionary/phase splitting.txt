@@ -1,0 +1,5 @@
+PHASE SPLITTING
+Phase splitting. (Elec.)
+
+Defn: The dephasing of the two parts of a single alternating current
+in two dissimilar branches of a given circuit.

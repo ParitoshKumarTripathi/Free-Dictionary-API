@@ -1,0 +1,7 @@
+GENERATRIX
+Gen`er*a"trix, n.; pl. L. Generatrices, E. Generatrixes. Etym: [L.]
+(Geom.)
+
+Defn: That which generates; the point, or the mathematical magnitude,
+which, by its motion, generates another magnitude, as a line,
+surface, or solid; -- called also describent.

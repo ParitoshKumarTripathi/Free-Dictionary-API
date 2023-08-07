@@ -1,0 +1,6 @@
+HALF-RAY
+Half"-ray`, n. (Geom.)
+
+Defn: A straight line considered as drawn from a center to an
+indefinite distance in one direction, the complete ray being the
+whole line drawn to an indefinite distance in both directions.

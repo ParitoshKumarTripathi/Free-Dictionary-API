@@ -1,0 +1,6 @@
+NICKEL STEEL
+Nickel steel.
+
+Defn: A kind of cast steel containing nickel, which greatly increases
+its strength. It is used for armor plate, bicycle tubing, propeller
+shafts, etc.

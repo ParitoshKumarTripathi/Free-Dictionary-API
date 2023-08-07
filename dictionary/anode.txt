@@ -1,0 +1,6 @@
+ANODE
+An"ode, n. Etym: [Gr. (Elec.)
+
+Defn: The positive pole of an electric battery, or more strictly the
+electrode by which the current enters the electrolyte on its way to
+the other pole; -- opposed to cathode.

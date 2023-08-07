@@ -1,0 +1,6 @@
+MULTIPLICAND
+Mul"ti*pli*cand`, n. Etym: [L. multiplicandus to be multiplied: cf.
+F. multiplicande.] (Math.)
+
+Defn: The number which is to be multiplied by another number called
+the multiplier. See Note under Multiplication.

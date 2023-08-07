@@ -1,0 +1,5 @@
+MATCH GAME
+Match game.
+
+Defn: A game arranged as a test of superiority; also, one of a series
+of such games.

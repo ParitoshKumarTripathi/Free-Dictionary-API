@@ -1,0 +1,4 @@
+X-RAY TUBE
+X"-ray" tube. (Physics)
+
+Defn: A vacuum tube suitable for producing Röntgen rays.

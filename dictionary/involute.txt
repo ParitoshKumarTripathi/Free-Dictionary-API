@@ -1,0 +1,5 @@
+INVOLUTE
+In"vo*lute, n. (Geom.)
+
+Defn: A curve traced by the end of a string wound upon another curve,
+or unwound from it; -- called also evolvent. See Evolute.

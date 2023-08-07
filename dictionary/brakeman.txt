@@ -1,0 +1,11 @@
+BRAKEMAN
+Brake"man, n.; pl. Brakemen (.
+
+1. (Railroads)
+
+Defn: A man in charge of a brake or brakes.
+
+2. (Mining)
+
+Defn: The man in charge of the winding (or hoisting) engine for a
+mine.

@@ -1,0 +1,5 @@
+BLAST LAMP
+Blast lamp.
+
+Defn: A lamp provided with some arrangement for intensifying
+combustion by means of a blast.

@@ -1,0 +1,7 @@
+THERMOELECTROMETER
+Ther`mo*e`lec*trom"e*ter, n. Etym: [Thermo- + electrometer.]
+(Physics)
+
+Defn: An instrument for measuring the strength of an electric current
+in the heat which it produces, or for determining the heat developed
+by such a current.

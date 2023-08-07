@@ -1,0 +1,7 @@
+HOMALOID; HOMALOIDAL
+Hom"a*loid, Hom`a*loid"al, a. Etym: [Gr. -oid.] (Geom.)
+
+Defn: Flat; even; -- a term applied to surfaces and to spaces,
+whether real or imagined, in which the definitions, axioms, and
+postulates of Euclid respecting parallel straight lines are assumed
+to hold true.

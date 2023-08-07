@@ -1,0 +1,4 @@
+WIELDABLE
+Wield"a*ble, a.
+
+Defn: Capable of being wielded.

@@ -1,0 +1,6 @@
+HEXAHEDRON
+Hex`a*he"dron, n.; pl. E. Hexahedrons, L. Hexahedra. Etym: [Hexa- +
+Gr. hexaèdre.] (Geom.)
+
+Defn: A solid body of six sides or faces. Regular hexahedron, a
+hexagon having six equal squares for its sides; a cube.

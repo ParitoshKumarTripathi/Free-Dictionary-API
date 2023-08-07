@@ -1,0 +1,5 @@
+STEP-DOWN
+Step"-down`, a. (Elec.)
+
+Defn: Transforming or converting a current of high potential or
+pressure into one of low pressure; as, a step-down transformer.

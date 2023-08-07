@@ -1,0 +1,41 @@
+CURVE
+Curve (krv), a. Etym: [L. curvus bent, curved. See Cirb.]
+
+Defn: Bent without angles; crooked; curved; as, a curve line; a curve
+surface.
+CURVE
+
+=====
+Curve, n. Etym: [See Curve, a., Cirb.]
+
+1. A bending without angles; that wcich is bent; a flexure; as, a
+curve in a railway or canal.
+
+2. (Geom.)
+
+Defn: A line described according to some low, and having no finite
+portion of it a straight line. Axis of a curve. See under Axis.
+ -- Curve of quickest descent. See Brachystochrone.
+ -- Curve tracing (Math.), the process of determining the shape,
+location, singular points, and other perculiarities of a curve from
+its equation.
+ -- Plane curve (Geom.), a curve such that when a plane passes
+through three points of the curve, it passes through all the other
+points of the curve. Any other curve is called a curve of double
+curvature, or a twisted curve.
+CURVE
+
+=====
+Curve, v. t. [imp. & p.p. Curved (krvd); p. pr. & vb. n. Curving.]
+Etym: [L. curvare., fr. curvus. See Curve, a., Curb.]
+
+Defn: To bend; to crook; as, to curve a line; to curve a pipe; to
+cause to swerve from a straight course; as, to curve a ball in
+pitching it.
+CURVE
+
+=====
+Curve, v. i.
+
+Defn: To bend or turn gradually from a given direction; as, the road
+curves to the right.

@@ -1,0 +1,12 @@
+MONOMIAL
+Mo*no"mi*al, n. Etym: [See Monome, Binomial.] (Alg.)
+
+Defn: A single algebraic expression; that is, an expression
+unconnected with any other by the sign of addition, substraction,
+equality, or inequality.
+MONOMIAL
+
+=====
+Mo*no"mi*al, a. (Alg.)
+
+Defn: Consisting of but a single term or expression.

@@ -1,0 +1,6 @@
+MANTISSA
+Man*tis*sa, n. Etym: [L., an addition, makeweight; of Tuscan origin.]
+(Math.)
+
+Defn: The decimal part of a logarithm, as distinguished from the
+integral part, or characteristic.

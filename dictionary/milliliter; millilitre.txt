@@ -1,0 +1,8 @@
+MILLILITER; MILLILITRE
+Mil"li*li`ter, Mil"li*li`tre, n. Etym: [F. millilitre; milli- milli-
++ litre. See Liter.]
+
+Defn: A measure of capacity in the metric system, containing the
+thousandth part of a liter. It is a cubic centimeter, and is equal to
+.061 of an English cubic inch, or to .0338 of an American fluid
+ounce.
