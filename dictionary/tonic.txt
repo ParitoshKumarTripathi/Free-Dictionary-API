@@ -38,3 +38,43 @@ lines, clefs, signature, etc., of the usual notation, it employs
 letters and the syllables do, re, mi, etc., variously modified, with
 other simple signs of duration, of upper or lower octave, etc. See
 Sol-fa.
+
+=====
+Ton"ic, a. Etym: [Cf. F. tonigue, Gr. Tone.]
+
+1. Of or relating to tones or sounds; specifically (Phon.), applied
+to, or distingshing, a speech sound made with tone unmixed and
+undimmed by obstruction, such sounds, namely, the vowels and
+diphthongs, being so called by Dr. James Rush (1833) " from their
+forming the purest and most plastic material of intonation."
+
+2. Of or pertaining to tension; increasing tension; hence, increasing
+strength; as, tonic power.
+
+3. (Med.)
+
+Defn: Increasing strength, or the tone of the animal system;
+obviating the effects of debility, and restoring heatly functions.
+Tononic spasm. (Med.) See the Note under Spasm.
+
+=====
+Ton"ic, n. Etym: [Cf. F. tonigue, NL. tonicum.]
+
+1. (Phon.)
+
+Defn: A tonic element or letter; a vowel or a diphthong.
+
+2. (Mus.)
+
+Defn: The key tone, or first tone of any scale.
+
+3. (Med.)
+
+Defn: A medicine that increases the srength, and gives vigor of
+action to the system. Tonic sol-fa (Mus.), the name of the most
+popular among letter systems of notation (at least in England), based
+on key relationship, and hence called "tonic." Instead of the five
+lines, clefs, signature, etc., of the usual notation, it employs
+letters and the syllables do, re, mi, etc., variously modified, with
+other simple signs of duration, of upper or lower octave, etc. See
+Sol-fa.

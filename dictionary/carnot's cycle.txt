@@ -7,3 +7,13 @@ through the following four successive operations: (1) Isothermal
 expansion to a desired point; (2) adiabatic expansion to a desired
 point; (3) isothermal compression to such a point that (4) adiabatic
 compression brings it back to its initial state.
+
+=====
+Car`not's" cy"cle. [After N. L. S. Carnot, French physicist.]
+(Thermodynamics)
+
+Defn: An ideal heat-engine cycle in which the working fluid goes
+through the following four successive operations: (1) Isothermal
+expansion to a desired point; (2) adiabatic expansion to a desired
+point; (3) isothermal compression to such a point that (4) adiabatic
+compression brings it back to its initial state.

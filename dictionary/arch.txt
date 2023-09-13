@@ -64,3 +64,65 @@ ARCH
 *arch. Etym: [Gr. Arch, a.]
 
 Defn: A suffix meaning a ruler, as in monarch (a sole ruler).
+
+=====
+Arch, n. Etym: [F. arche, fr. LL. arca, for arcus. See Arc.]
+
+1. (Geom.)
+
+Defn: Any part of a curved line.
+
+2. (Arch.)
+(a) Usually a curved member made up of separate wedge-shaped solids,
+with the joints between them disposed in the direction of the radii
+of the curve; used to support the wall or other weight above an
+opening. In this sense arches are segmental, round (i. e.,
+semicircular), or pointed.
+(b) A flat arch is a member constructed of stones cut into wedges or
+other shapes so as to support each other without rising in a curve.
+
+Note: Scientifically considered, the arch is a means of spanning an
+opening by resolving vertical pressure into horizontal or diagonal
+thrust.
+
+3. Any place covered by an arch; an archway; as, to pass into the
+arch of a bridge.
+
+4. Any curvature in the form of an arch; as, the arch of the aorta.
+"Colors of the showery arch." Milton. Triumphal arch, a monumental
+structure resembling an arched gateway, with one or more passages,
+erected to commemorate a triumph.
+
+=====
+Arch, v. t. [imp. & p. p. Arched; p. pr. & vb. n. Arching.]
+
+1. To cover with an arch or arches.
+
+2. To form or bend into the shape of an arch.
+The horse arched his neck. Charlesworth.
+
+=====
+Arch, v. i.
+
+Defn: To form into an arch; to curve.
+
+=====
+Arch, a. Etym: [See Arch-, pref.]
+
+1. Chief; eminent; greatest; principal.
+The most arch act of piteous massacre. Shak.
+
+2. Cunning or sly; sportively mischievous; roguish; as, an arch look,
+word, lad.
+[He] spoke his request with so arch a leer. Tatler.
+
+=====
+Arch, n. Etym: [See Arch-, pref.]
+
+Defn: A chief. [Obs.]
+My worthy arch and patron comes to-night. Shak.
+
+=====
+*arch. Etym: [Gr. Arch, a.]
+
+Defn: A suffix meaning a ruler, as in monarch (a sole ruler).

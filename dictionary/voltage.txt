@@ -2,3 +2,8 @@ VOLTAGE
 Vol"tage, n. (Elec.)
 
 Defn: Electric potential or potential difference, expressed in volts.
+
+=====
+Vol"tage, n. (Elec.)
+
+Defn: Electric potential or potential difference, expressed in volts.

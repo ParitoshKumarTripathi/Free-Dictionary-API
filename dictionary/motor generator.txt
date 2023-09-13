@@ -4,3 +4,10 @@ Motor generator.
 Defn: The combination consisting of a generator and a driving motor
 mechanically connected, usually on a common bedplate and with the two
 shafts directly coupled or combined into a single shaft.
+
+=====
+Motor generator.
+
+Defn: The combination consisting of a generator and a driving motor
+mechanically connected, usually on a common bedplate and with the two
+shafts directly coupled or combined into a single shaft.

@@ -2,3 +2,8 @@ FUNGE
 Funge, n. Etym: [L. fungus mushroom, dolt.]
 
 Defn: A blockhead; a dolt; a fool. [Obs.] Burton.
+
+=====
+Funge, n. Etym: [L. fungus mushroom, dolt.]
+
+Defn: A blockhead; a dolt; a fool. [Obs.] Burton.

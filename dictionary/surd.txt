@@ -30,3 +30,35 @@ Surd, n. (Math.)
 2. (Phon.)
 
 Defn: A surd element of speech. See Surd, a., 4.
+
+=====
+Surd, a. Etym: [L. surdus deaf (whence the meaning, deaf to reason,
+irrational), perhaps akin to E. swart. Cf. Sordine.]
+
+1. Net having the sense of hearing; deaf. [Obs.] "A surd . . .
+generation." Sir T. Browne.
+
+2. Unheard. [Obs.] Kenrick.
+
+3. (Math.)
+
+Defn: Involving surds; not capable of being expressed in rational
+numbers; radical; irrational; as, a surd expression or quantity; a
+surd number.
+
+4. (Phonetics)
+
+Defn: Uttered, as an element of speech, without tone, or proper vocal
+sound; voiceless; unintonated; nonvocal; atonic; whispered;
+aspirated; sharp; hard, as f, p, s, etc.; -- opposed to sonant. See
+Guide to Pronunciation, §§169, 179, 180.
+
+=====
+Surd, n. (Math.)
+
+1. A quantity which can not be expressed by rational numbers; thus,
+*2 is a surd.
+
+2. (Phon.)
+
+Defn: A surd element of speech. See Surd, a., 4.

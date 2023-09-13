@@ -4,3 +4,10 @@ angulus angle.]
 
 Defn: Having eight angles; eight-angled.
  -- Oc*tan"gu*lar*ness, n.
+
+=====
+Oc*tan"gu*lar, a. Etym: [L.octangulus eight-cornered; octo eight +
+angulus angle.]
+
+Defn: Having eight angles; eight-angled.
+ -- Oc*tan"gu*lar*ness, n.

@@ -9,3 +9,14 @@ SMATCH
 Smatch, v. i.
 
 Defn: To smack. [Obs.] Banister (1578).
+
+=====
+Smatch, n. Etym: [OE. smach, smak. See Smack taste.]
+
+Defn: Taste; tincture; smack. [Obs.]
+Thy life hath had some smatch of honor in it. Shak.
+
+=====
+Smatch, v. i.
+
+Defn: To smack. [Obs.] Banister (1578).

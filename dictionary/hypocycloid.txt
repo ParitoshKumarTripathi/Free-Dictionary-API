@@ -5,3 +5,11 @@ hypocycloïde.] (Geom.)
 Defn: A curve traced by a point in the circumference of a circle
 which rolls on the concave side in the fixed circle. Cf. Epicycloid,
 and Trochoid.
+
+=====
+Hy`po*cy"cloid, n. Etym: [Pref. hypo- + cycloid: cf. F.
+hypocycloïde.] (Geom.)
+
+Defn: A curve traced by a point in the circumference of a circle
+which rolls on the concave side in the fixed circle. Cf. Epicycloid,
+and Trochoid.

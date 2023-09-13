@@ -4,3 +4,10 @@ Phasing current.
 Defn: The momentary current between two alternating-current
 generators when juxtaposed in parallel and not agreeing exactly in
 phase or period.
+
+=====
+Phasing current.
+
+Defn: The momentary current between two alternating-current
+generators when juxtaposed in parallel and not agreeing exactly in
+phase or period.

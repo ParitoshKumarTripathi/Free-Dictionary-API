@@ -2,3 +2,8 @@ SWAM
 Swam,
 
 Defn: imp. of Swim.
+
+=====
+Swam,
+
+Defn: imp. of Swim.

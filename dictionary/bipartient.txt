@@ -7,3 +7,13 @@ Defn: Dividing into two parts.
 
 Defn: A number that divides another into two equal parts without a
 remainder.
+
+=====
+Bi*par"tient, a. Etym: [L. bis twice + partiens, p. pr. of partire to
+divide.]
+
+Defn: Dividing into two parts.
+ -- n.
+
+Defn: A number that divides another into two equal parts without a
+remainder.

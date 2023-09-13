@@ -2,3 +2,8 @@ ARCH BRICK
 Arch" brick`.
 
 Defn: A wedge-shaped brick used in the building of an arch.
+
+=====
+Arch" brick`.
+
+Defn: A wedge-shaped brick used in the building of an arch.

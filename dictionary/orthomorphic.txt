@@ -4,3 +4,10 @@ Or`tho*mor"phic, a. Etym: [Ortho- + morphic.] (Geom.)
 Defn: Having the right form. Orthomorphic projection, a projection in
 which the angles in the figure to be projected are equal to the
 corresponding angles in the projected figure.
+
+=====
+Or`tho*mor"phic, a. Etym: [Ortho- + morphic.] (Geom.)
+
+Defn: Having the right form. Orthomorphic projection, a projection in
+which the angles in the figure to be projected are equal to the
+corresponding angles in the projected figure.

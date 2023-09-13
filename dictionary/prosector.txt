@@ -4,3 +4,10 @@ pro before + secare to cut.]
 
 Defn: One who makes dissections for anatomical illustration; usually,
 the assistant of a professional anatomist.
+
+=====
+Pro*sec"tor, n. Etym: [L., an anatomist, from prosecare to cut up;
+pro before + secare to cut.]
+
+Defn: One who makes dissections for anatomical illustration; usually,
+the assistant of a professional anatomist.

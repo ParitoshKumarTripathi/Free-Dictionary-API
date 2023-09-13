@@ -5,3 +5,11 @@ E"quant, n. Etym: [L. aequans, -antis, p. pr. of aequare: cf. F.
 Defn: A circle around whose circumference a planet or the center of
 ann epicycle was conceived to move uniformly; -- called also
 eccentric equator.
+
+=====
+E"quant, n. Etym: [L. aequans, -antis, p. pr. of aequare: cf. F.
+équant. See Equate.] (Ptolemaic Astron.)
+
+Defn: A circle around whose circumference a planet or the center of
+ann epicycle was conceived to move uniformly; -- called also
+eccentric equator.

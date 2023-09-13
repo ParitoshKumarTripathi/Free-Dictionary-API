@@ -3,3 +3,9 @@ Tandem engine.
 
 Defn: A steam engine having two or more steam cylinders in line, with
 a common piston rod.
+
+=====
+Tandem engine.
+
+Defn: A steam engine having two or more steam cylinders in line, with
+a common piston rod.

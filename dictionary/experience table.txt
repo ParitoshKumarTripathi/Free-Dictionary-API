@@ -3,3 +3,9 @@ Ex*pe"ri*ence ta"ble. (Life Insurance)
 
 Defn: A table of mortality computed from the experience of one or
 more life-insurance companies.
+
+=====
+Ex*pe"ri*ence ta"ble. (Life Insurance)
+
+Defn: A table of mortality computed from the experience of one or
+more life-insurance companies.

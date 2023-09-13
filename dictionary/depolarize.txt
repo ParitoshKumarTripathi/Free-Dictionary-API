@@ -16,3 +16,22 @@ analyzer.
 
 Defn: To free from polarization, as the negative plate of the voltaic
 battery.
+
+=====
+De*po"lar*ize, v. t. [imp. & p. p. Depolarized; p. pr. & vb. n.
+Depolarizing.] Etym: [Pref. de- + polarize: cf. F. dépolarizer.]
+
+1. (Opt.)
+
+Defn: To deprive of polarity; to reduce to an unpolarized condition.
+
+Note: This word has been inaccurately applied in optics to describe
+the effect of a polarizing medium, as a crystalline plate, in causing
+the reappearance of a ray, in consequence of a change in its plane of
+polarization, which previously to the change was intercepted by the
+analyzer.
+
+2. (Elec.)
+
+Defn: To free from polarization, as the negative plate of the voltaic
+battery.

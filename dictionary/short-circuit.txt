@@ -4,3 +4,10 @@ Short-circuiting.] (Elec.)
 
 Defn: To join, as the electrodes of a battery or dynamo or any two
 points of a circuit, by a conductor of low resistance.
+
+=====
+Short"-cir`cuit, v. t. [imp. & p. p. Short-circuited; p. pr. & vb. n.
+Short-circuiting.] (Elec.)
+
+Defn: To join, as the electrodes of a battery or dynamo or any two
+points of a circuit, by a conductor of low resistance.

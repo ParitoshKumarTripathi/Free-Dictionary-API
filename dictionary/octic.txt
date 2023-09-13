@@ -5,3 +5,11 @@ Defn: Of the eighth degree or order.
  -- n. (Alg.)
 
 Defn: A quantic of the eighth degree.
+
+=====
+Oc"tic, a. Etym: [Octo- + -ic.] (Math.)
+
+Defn: Of the eighth degree or order.
+ -- n. (Alg.)
+
+Defn: A quantic of the eighth degree.

@@ -3,3 +3,9 @@ Phasing transformer.
 
 Defn: Any of several transformers (there must be at least two) for
 changing phase.
+
+=====
+Phasing transformer.
+
+Defn: Any of several transformers (there must be at least two) for
+changing phase.

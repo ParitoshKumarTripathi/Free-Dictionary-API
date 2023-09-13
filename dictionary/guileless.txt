@@ -3,3 +3,9 @@ Guile"less, a.
 
 Defn: Free from guile; artless.
  -- Guile"less*ly, adv. Guile"less*ness, n.
+
+=====
+Guile"less, a.
+
+Defn: Free from guile; artless.
+ -- Guile"less*ly, adv. Guile"less*ness, n.

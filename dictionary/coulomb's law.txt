@@ -4,3 +4,10 @@ Cou`lomb's" law. (Physics)
 Defn: The law that the force exerted between two electric or magnetic
 charges is directly proportional to the product of the charges and
 inversely to the square of the distance between them.
+
+=====
+Cou`lomb's" law. (Physics)
+
+Defn: The law that the force exerted between two electric or magnetic
+charges is directly proportional to the product of the charges and
+inversely to the square of the distance between them.

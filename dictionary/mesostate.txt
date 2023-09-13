@@ -5,3 +5,11 @@ Defn: A product of metabolic action.
 
 Note: Every mesostate is either an anastate or katastate, according
 as it is formed by an anabolic or katabolic process. See Metabolism.
+
+=====
+Mes"o*state, n. Etym: [Meso- + Gr. (Physiol.)
+
+Defn: A product of metabolic action.
+
+Note: Every mesostate is either an anastate or katastate, according
+as it is formed by an anabolic or katabolic process. See Metabolism.

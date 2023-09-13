@@ -2,3 +2,8 @@ STATELESS
 State"less, a.
 
 Defn: Without state or pomp.
+
+=====
+State"less, a.
+
+Defn: Without state or pomp.

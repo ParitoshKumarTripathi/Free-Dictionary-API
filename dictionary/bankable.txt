@@ -2,3 +2,8 @@ BANKABLE
 Bank"a*ble, a.
 
 Defn: Receivable at a bank.
+
+=====
+Bank"a*ble, a.
+
+Defn: Receivable at a bank.

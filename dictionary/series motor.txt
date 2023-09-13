@@ -2,3 +2,8 @@ SERIES MOTOR
 Series motor. (Elec.)
  (a) A series-wound motor.
  (b) A motor capable of being used in a series circuit.
+
+=====
+Series motor. (Elec.)
+ (a) A series-wound motor.
+ (b) A motor capable of being used in a series circuit.

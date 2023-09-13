@@ -4,3 +4,10 @@ Sca"lar, n. (Math.)
 Defn: In the quaternion analysis, a quantity that has magnitude, but
 not direction; -- distinguished from a vector, which has both
 magnitude and direction.
+
+=====
+Sca"lar, n. (Math.)
+
+Defn: In the quaternion analysis, a quantity that has magnitude, but
+not direction; -- distinguished from a vector, which has both
+magnitude and direction.

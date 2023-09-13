@@ -2,3 +2,8 @@ WIRE GUN
 Wire gun.
 
 Defn: = Wire-wound gun.
+
+=====
+Wire gun.
+
+Defn: = Wire-wound gun.

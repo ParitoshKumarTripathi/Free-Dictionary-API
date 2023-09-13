@@ -9,3 +9,15 @@ conterposition.]
 Defn: A so-called immediate inference which consists in denying the
 original subject of the contradictory predicate; e.g.: Every S is P;
 therefore, no Not-P is S.
+
+=====
+Con"tra*po*si"tion, n. Etym: [Pref. contra- + position: cf. f.
+conterposition.]
+
+1. A placing over against; opposite position. [Obs.] F. Potter.
+
+2. (Logic)
+
+Defn: A so-called immediate inference which consists in denying the
+original subject of the contradictory predicate; e.g.: Every S is P;
+therefore, no Not-P is S.

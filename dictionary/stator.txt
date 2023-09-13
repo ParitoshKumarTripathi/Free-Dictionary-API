@@ -7,3 +7,13 @@ revolves, esp. when both are large; as,
 induction motor.
  (b) (Steam Turbine) The case inclosing a turbine wheel; the body of
 stationary blades or nozzles.
+
+=====
+Sta"tor, n. (Mach.)
+
+Defn: A stationary part in or about which another part (the rotor)
+revolves, esp. when both are large; as,
+ (a) (Elec.) The stationary member of an electrical machine, as of an
+induction motor.
+ (b) (Steam Turbine) The case inclosing a turbine wheel; the body of
+stationary blades or nozzles.

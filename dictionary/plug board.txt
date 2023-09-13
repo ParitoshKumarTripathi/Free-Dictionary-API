@@ -2,3 +2,8 @@ PLUG BOARD
 Plug board. (Elec.)
 
 Defn: A switchboard in which connections are made by means of plugs.
+
+=====
+Plug board. (Elec.)
+
+Defn: A switchboard in which connections are made by means of plugs.

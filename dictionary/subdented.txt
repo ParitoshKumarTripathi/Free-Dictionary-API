@@ -2,3 +2,8 @@ SUBDENTED
 Sub*dent"ed, a.
 
 Defn: Indented beneath.
+
+=====
+Sub*dent"ed, a.
+
+Defn: Indented beneath.

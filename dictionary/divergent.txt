@@ -12,3 +12,18 @@ Defn: Causing divergence of rays; as, a divergent lens.
 3. Fig.: Disagreeing from something given; differing; as, a divergent
 statement. Divergent series. (Math.) See Diverging series, under
 Diverging.
+
+=====
+Di*ver"gent, a. Etym: [Cf. F. divergent. See Diverge.]
+
+1. Receding farther and farther from each other, as lines radiating
+from one point; deviating gradually from a given direction; --
+opposed to convergent.
+
+2. (Optics)
+
+Defn: Causing divergence of rays; as, a divergent lens.
+
+3. Fig.: Disagreeing from something given; differing; as, a divergent
+statement. Divergent series. (Math.) See Diverging series, under
+Diverging.

@@ -6,3 +6,12 @@ Defn: An instrument for exhibiting and measuring wave motion; specif.
 
 Defn: an instrument for determining the frequency of electic wave
 oscillations, esp. in connection with wireless telegraphy.
+
+=====
+Cy*mom"e*ter, n. [Gr.  wave -meter.]
+
+Defn: An instrument for exhibiting and measuring wave motion; specif.
+(Elec.),
+
+Defn: an instrument for determining the frequency of electic wave
+oscillations, esp. in connection with wireless telegraphy.

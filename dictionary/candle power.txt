@@ -3,3 +3,9 @@ Candle power. (Photom.)
 
 Defn: Illuminating power, as of a lamp, or gas flame, reckoned in
 terms of the light of a standard candle.
+
+=====
+Candle power. (Photom.)
+
+Defn: Illuminating power, as of a lamp, or gas flame, reckoned in
+terms of the light of a standard candle.

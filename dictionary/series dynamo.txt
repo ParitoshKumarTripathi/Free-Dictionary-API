@@ -2,3 +2,8 @@ SERIES DYNAMO
 Series dynamo. (Elec.)
  (a) A series-wound dynamo.
  (b) A dynamo running in series with another or others.
+
+=====
+Series dynamo. (Elec.)
+ (a) A series-wound dynamo.
+ (b) A dynamo running in series with another or others.

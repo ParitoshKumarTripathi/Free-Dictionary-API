@@ -11,3 +11,17 @@ dynamics, as applied to water and other fluids.
 Note: The word is sometimes used as a general term, including both
 hydrostatics and hydraulics, together with pneumatics and acoustics.
 See Hydraulics.
+
+=====
+Hy`dro*dy*nam"ics, n. Etym: [Hydro-, 1 + dynamics: cf. F.
+hydrodynamique.]
+
+Defn: That branch of the science of mechanics which relates to
+fluids, or, as usually limited, which treats of the laws of motion
+and action of nonelastic fluids, whether as investigated
+mathematically, or by observation and experiment; the principles of
+dynamics, as applied to water and other fluids.
+
+Note: The word is sometimes used as a general term, including both
+hydrostatics and hydraulics, together with pneumatics and acoustics.
+See Hydraulics.

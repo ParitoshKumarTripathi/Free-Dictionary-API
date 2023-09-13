@@ -15,3 +15,21 @@ Note: It is usually constructed so as to register the change which
 the heat to be measured produces in the length of some expansible
 substance, as a metallic rod, or in the intensity of a thermo-
 electric current.
+
+=====
+Py*rom"e*ter, n. Etym: [Pyro- + -meter: cf. F. pyromètre.]
+
+1. (Physics)
+
+Defn: An instrument used for measuring the expansion of solid bodies
+by heat.
+
+2. (Physics)
+
+Defn: An instrument for measuring degrees of heat above those
+indicated by the mercurial thermometer.
+
+Note: It is usually constructed so as to register the change which
+the heat to be measured produces in the length of some expansible
+substance, as a metallic rod, or in the intensity of a thermo-
+electric current.

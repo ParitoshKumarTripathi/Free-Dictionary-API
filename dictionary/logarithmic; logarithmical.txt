@@ -8,3 +8,14 @@ will be the logarithm of its abscissa.
  -- Logarithmic spiral, a spiral curve such that radii drawn from its
 pole or eye at equal angles with each other are in continual
 proportion. See Spiral.
+
+=====
+Log`a*rith"mic, Log`a*rith"mic*al, a. Etym: [Cf. F. logarithmique.]
+
+Defn: Of or pertaining to logarithms; consisting of logarithms.
+Logarithmic curve (Math.), a curve which, referred to a system of
+rectangular coördinate axes, is such that the ordinate of any point
+will be the logarithm of its abscissa.
+ -- Logarithmic spiral, a spiral curve such that radii drawn from its
+pole or eye at equal angles with each other are in continual
+proportion. See Spiral.

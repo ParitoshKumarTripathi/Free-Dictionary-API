@@ -5,3 +5,11 @@ Van't Hoff's law. [After J.H. van't Hoff, Dutch physical chemist.]
 Defn: The generalization that: when a system is in equilibrium, of
 the two opposed interactions the endothermic is promoted by raising
 the temperature, the exothermic by lowering it.
+
+=====
+Van't Hoff's law. [After J.H. van't Hoff, Dutch physical chemist.]
+(Phys. Chem.)
+
+Defn: The generalization that: when a system is in equilibrium, of
+the two opposed interactions the endothermic is promoted by raising
+the temperature, the exothermic by lowering it.

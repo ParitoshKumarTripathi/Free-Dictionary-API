@@ -9,3 +9,15 @@ Defn: A wreath.
 2. Etym: [F. tors, torse, twisted.] (Geom.)
 
 Defn: A developable surface. See under Developable.
+
+=====
+Torse, n. Etym: [OF., fr. OF. & F. tors, torse, twisted, wreathed, p.
+p. of tordre to twist, L. torquere. See Torture.]
+
+1. (Her.)
+
+Defn: A wreath.
+
+2. Etym: [F. tors, torse, twisted.] (Geom.)
+
+Defn: A developable surface. See under Developable.

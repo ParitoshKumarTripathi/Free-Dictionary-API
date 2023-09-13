@@ -2,3 +2,8 @@ DUPABLE
 Dup"a*ble, a.
 
 Defn: Capable of being duped.
+
+=====
+Dup"a*ble, a.
+
+Defn: Capable of being duped.

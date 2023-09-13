@@ -2,3 +2,8 @@ FLASH BURNER
 Flash burner.
 
 Defn: A gas burner with a device for lighting by an electric spark.
+
+=====
+Flash burner.
+
+Defn: A gas burner with a device for lighting by an electric spark.

@@ -5,3 +5,11 @@ nodus knot. See Node.]
 Defn: Knotted. Nodated hyperbola (Geom.), a certain curve of the
 third order having two branches which cross each other, forming a
 node.
+
+=====
+No"da*ted, a. Etym: [L. nodatus, p.p. of nodare to make knotty, fr.
+nodus knot. See Node.]
+
+Defn: Knotted. Nodated hyperbola (Geom.), a certain curve of the
+third order having two branches which cross each other, forming a
+node.

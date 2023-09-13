@@ -12,3 +12,18 @@ applicable to those relations that are true of every kind of
 magnitude.
 
 2. A treatise on this science.
+
+=====
+Al"ge*bra, n. Etym: [LL. algebra, fr. Ar. al-jebr reduction of parts
+to a whole, or fractions to whole numbers, fr. jabara to bind
+together, consolidate; al-jebr w'almuqabalah reduction and comparison
+(by equations): cf. F. algèbre, It. & Sp. algebra.]
+
+1. (Math.)
+
+Defn: That branch of mathematics which treats of the relations and
+properties of quantity by means of letters and other symbols. It is
+applicable to those relations that are true of every kind of
+magnitude.
+
+2. A treatise on this science.

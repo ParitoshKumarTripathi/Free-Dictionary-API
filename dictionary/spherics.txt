@@ -5,3 +5,11 @@ Defn: The doctrine of the sphere; the science of the properties and
 relations of the circles, figures, and other magnitudes of a sphere,
 produced by planes intersecting it; spherical geometry and
 trigonometry.
+
+=====
+Spher"ics, n. (Math.)
+
+Defn: The doctrine of the sphere; the science of the properties and
+relations of the circles, figures, and other magnitudes of a sphere,
+produced by planes intersecting it; spherical geometry and
+trigonometry.

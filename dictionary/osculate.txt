@@ -26,3 +26,31 @@ Defn: To touch closely. See Osculation, 2.
 Defn: To have characters in common with two genera or families, so as
 to form a connecting link between them; to interosculate. See
 Osculant.
+
+=====
+Os"cu*late, v. t. [imp. & p. p. Osculated; p. pr. & vb. n.
+Osculating.] Etym: [L. osculatus, p. p. of osculari to kiss, fr.
+osculum a little mouth, a kiss, dim. of os mouth. See Oral, and cf.
+Oscillate.]
+
+1. To kiss.
+
+2. (Geom.)
+
+Defn: To touch closely, so as to have a common curvature at the point
+of contact. See Osculation, 2.
+
+=====
+Os"cu*late, v. i.
+
+1. To kiss one another; to kiss.
+
+2. (Geom.)
+
+Defn: To touch closely. See Osculation, 2.
+
+3. (Biol.)
+
+Defn: To have characters in common with two genera or families, so as
+to form a connecting link between them; to interosculate. See
+Osculant.

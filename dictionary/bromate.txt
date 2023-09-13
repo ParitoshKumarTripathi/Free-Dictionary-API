@@ -8,3 +8,13 @@ BROMATE
 Bro"mate, v.t. (Med.)
 
 Defn: To combine or impregnate with bromine; as, bromated camphor.
+
+=====
+Bro"mate, n. (Chem.)
+
+Defn: A salt of bromic acid.
+
+=====
+Bro"mate, v.t. (Med.)
+
+Defn: To combine or impregnate with bromine; as, bromated camphor.

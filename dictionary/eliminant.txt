@@ -3,3 +3,9 @@ E*lim"i*nant, n. (Math.)
 
 Defn: The result of eliminating n variables between n homogeneous
 equations of any degree; -- called also resultant.
+
+=====
+E*lim"i*nant, n. (Math.)
+
+Defn: The result of eliminating n variables between n homogeneous
+equations of any degree; -- called also resultant.

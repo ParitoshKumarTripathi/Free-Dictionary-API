@@ -2,3 +2,8 @@ LENARD TUBE
 Lenard tube. (Elec.)
 
 Defn: A tube for producing Lenard rays.
+
+=====
+Lenard tube. (Elec.)
+
+Defn: A tube for producing Lenard rays.

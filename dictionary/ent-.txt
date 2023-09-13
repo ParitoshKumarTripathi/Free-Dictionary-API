@@ -2,3 +2,8 @@ ENT-
 Ent-.
 
 Defn: A prefix signifying within. See Ento-.
+
+=====
+Ent-.
+
+Defn: A prefix signifying within. See Ento-.

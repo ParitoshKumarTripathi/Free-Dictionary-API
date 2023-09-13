@@ -5,3 +5,11 @@ Defn: Having equal angles; as, an equiangular figure; a square is
 equiangular. Equiangular spiral. (Math.) See under Spiral, n.
  -- Mutually equiangular, applied to two figures, when every angle of
 the one has its equal among the angles of the other.
+
+=====
+E`qui*an"gu*lar, a. Etym: [Equi- + angular. Cf. Equangular.]
+
+Defn: Having equal angles; as, an equiangular figure; a square is
+equiangular. Equiangular spiral. (Math.) See under Spiral, n.
+ -- Mutually equiangular, applied to two figures, when every angle of
+the one has its equal among the angles of the other.

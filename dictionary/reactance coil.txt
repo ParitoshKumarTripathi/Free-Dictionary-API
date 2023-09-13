@@ -2,3 +2,8 @@ REACTANCE COIL
 Reactance coil (Elec.)
 
 Defn: A choking coil.
+
+=====
+Reactance coil (Elec.)
+
+Defn: A choking coil.

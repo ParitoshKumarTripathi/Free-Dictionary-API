@@ -6,3 +6,12 @@ Defn: Relating to quantity.
 which determines the amount or quantity of each ingredient of a
 substance, by weight or by volume; -- contrasted with qualitative
 analysis.
+
+=====
+Quan"ti*ta*tive, a. Etym: [Cf. F. quantitatif.]
+
+Defn: Relating to quantity.
+ -- Quan"ti*ta*tive*ly, adv. Quantitative analysis (Chem.), analysis
+which determines the amount or quantity of each ingredient of a
+substance, by weight or by volume; -- contrasted with qualitative
+analysis.

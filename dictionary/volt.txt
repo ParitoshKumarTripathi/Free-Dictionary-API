@@ -20,3 +20,25 @@ International Electrical Congress in 1893 and by United States
 Statute as, that electro-motive force which steadily applied to a
 conductor whose resistance is one ohm will produce a current of one
 ampère. It is practically equivalent to
+
+=====
+Volt, n. Etym: [F. volte; cf. It. volta. See Vault.]
+
+1. (Man.)
+
+Defn: A circular tread; a gait by which a horse going sideways round
+a center makes two concentric tracks.
+
+2. (Fencing)
+
+Defn: A sudden movement to avoid a thrust.
+
+=====
+Volt, n. Etym: [After Alessandro Volta, the Italian electrician.]
+(Elec.)
+
+Defn: The unit of electro-motive force; -- defined by the
+International Electrical Congress in 1893 and by United States
+Statute as, that electro-motive force which steadily applied to a
+conductor whose resistance is one ohm will produce a current of one
+ampère. It is practically equivalent to

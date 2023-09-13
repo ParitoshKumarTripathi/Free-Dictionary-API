@@ -22,3 +22,27 @@ from which there is no escape.
 
 2. To defeat completely; to terminate; to thwart.
 To checkmate and control my just demands. Ford.
+
+=====
+Check"mate, n. Etym: [F. échec et mat, fr. Per. shah mat ceckmate,
+lit., the king is dead, fr. Ar. mata he died, is dead. The king, when
+made prisoner, or checkmated, is assumed to be dead, and the game is
+finished. See Chess.]
+
+1. The position in the game of chess when a king is in check and
+cannot be released, -- which ends the game.
+
+2. A complete check; utter defeat or overthrow.
+
+=====
+Check"mate, v. t. [imp. & p. p. Checkmated; p. pr. & vb. n.
+Checkmating.]
+
+1. (Chess)
+
+Defn: To check (an adversary's king) in such a manner that escape in
+impossible; to defeat (an adversary) by putting his king in check
+from which there is no escape.
+
+2. To defeat completely; to terminate; to thwart.
+To checkmate and control my just demands. Ford.

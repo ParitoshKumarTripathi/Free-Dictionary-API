@@ -3,3 +3,9 @@ En, n. (Print.)
 
 Defn: Half an em, that is, half of the unit of space in measuring
 printed matter. See Em.
+
+=====
+En, n. (Print.)
+
+Defn: Half an em, that is, half of the unit of space in measuring
+printed matter. See Em.

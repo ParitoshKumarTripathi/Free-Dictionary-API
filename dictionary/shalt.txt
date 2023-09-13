@@ -2,3 +2,8 @@ SHALT
 Shalt,
 
 Defn: 2d per. sing. of Shall.
+
+=====
+Shalt,
+
+Defn: 2d per. sing. of Shall.

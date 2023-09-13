@@ -2,3 +2,8 @@ PROMPT-BOOK
 Prompt"-book` (, n.
 
 Defn: The book used by a prompter of a theater.
+
+=====
+Prompt"-book` (, n.
+
+Defn: The book used by a prompter of a theater.

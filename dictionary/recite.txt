@@ -34,3 +34,38 @@ RECITE
 Re*cite", n.
 
 Defn: A recital. [Obs.] Sir W. Temple.
+
+=====
+Re*cite", v. t. [imp. & p. p. Recited; p. pr. & vb. n. Reciting.]
+Etym: [F. réciter, fr. L. recitare, recitatum; pref. re- re- + citare
+to call or name, to cite. See Cite.]
+
+1. To repeat, as something already prepared, written down, committed
+to memory, or the like; to deliver from a written or printed
+document, or from recollection; to rehearse; as, to recite the words
+of an author, or of a deed or covenant.
+
+2. To tell over; to go over in particulars; to relate; to narrate;
+as, to recite past events; to recite the particulars of a voyage.
+
+3. To rehearse, as a lesson to an instructor.
+
+4. (Law)
+
+Defn: To state in or as a recital. See Recital, 5.
+
+Syn.
+ -- To rehearse; narrate; relate; recount; describe; recapitulate;
+detail; number; count.
+
+=====
+Re*cite", v. i.
+
+Defn: To repeat, pronounce, or rehearse, as before an audience,
+something prepared or committed to memory; to rehearse a lesson
+learned.
+
+=====
+Re*cite", n.
+
+Defn: A recital. [Obs.] Sir W. Temple.

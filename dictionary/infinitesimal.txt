@@ -14,3 +14,19 @@ In`fin*i*tes"i*mal, n. (Math.)
 
 Defn: An infinitely small quantity; that which is less than any
 assignable quantity.
+
+=====
+In`fin*i*tes"i*mal, a. Etym: [Cf. F. infinitésimal, fr. infinitésime
+infinitely small, fr. L. infinitus. See Infinite, a.]
+
+Defn: Infinitely or indefinitely small; less than any assignable
+quantity or value; very small. Infinitesimal calculus, the different
+and the integral calculus, when developed according to the method
+used by Leibnitz, who regarded the increments given to variables as
+infinitesimal.
+
+=====
+In`fin*i*tes"i*mal, n. (Math.)
+
+Defn: An infinitely small quantity; that which is less than any
+assignable quantity.

@@ -13,3 +13,19 @@ Defn: Tetragonal.
 Defn: Pertaining to terms of the second degree; as, a quadratic
 equation, in which the highest power of the unknown quantity is a
 square.
+
+=====
+Quad*rat"ic, a. Etym: [Cf. F. quadratique.]
+
+1. Of or pertaining to a square, or to squares; resembling a
+quadrate, or square; square.
+
+2. (Crystallog.)
+
+Defn: Tetragonal.
+
+3. (Alg.)
+
+Defn: Pertaining to terms of the second degree; as, a quadratic
+equation, in which the highest power of the unknown quantity is a
+square.

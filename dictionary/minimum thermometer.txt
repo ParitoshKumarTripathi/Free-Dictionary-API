@@ -3,3 +3,9 @@ Minimum thermometer
 
 Defn: , a thermometer for recording the lowest temperature since its
 last adjustment.
+
+=====
+Minimum thermometer
+
+Defn: , a thermometer for recording the lowest temperature since its
+last adjustment.

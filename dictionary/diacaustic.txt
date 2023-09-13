@@ -18,3 +18,23 @@ sun's rays concentrated by such a lens, sometimes used as a cautery.
 
 Defn: A curved formed by the consecutive intersections of rays of
 light refracted through a lens.
+
+=====
+Di`a*caus"tic, a. Etym: [Pref. dia- + caustic.] (Opt.)
+
+Defn: Pertaining to, or possessing the properties of, a species of
+caustic curves formed by refraction. See Caustic surface, under
+Caustic.
+
+=====
+Di`a*caus"tic, n.
+
+1. (Med.)
+
+Defn: That which burns by refraction, as a double convex lens, or the
+sun's rays concentrated by such a lens, sometimes used as a cautery.
+
+2. (Math.)
+
+Defn: A curved formed by the consecutive intersections of rays of
+light refracted through a lens.

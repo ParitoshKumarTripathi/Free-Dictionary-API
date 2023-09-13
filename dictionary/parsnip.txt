@@ -11,3 +11,17 @@ parsnip. See Cow parsnip.
  -- Poison parsnip, the wild stock of the parsnip.
  -- Water parsnip, any plant of the umbelliferous genus Sium, the
 species of which are poisonous.
+
+=====
+Pars"nip, n. Etym: [OE. parsnepe, from a French form, fr. L.
+pastinaca; cf. pastinare to dig up, pastinum a kind of dibble; cf.
+OF. pastenade, pastenaque.] (Bot.)
+
+Defn: The aromatic and edible spindle-shaped root of the cultivated
+form of the Pastinaca sativa, a biennial umbelliferous plant which is
+very poisonous in its wild state; also, the plant itself. Cow
+parsnip. See Cow parsnip.
+ -- Meadow parsnip, the European cow parsnip.
+ -- Poison parsnip, the wild stock of the parsnip.
+ -- Water parsnip, any plant of the umbelliferous genus Sium, the
+species of which are poisonous.

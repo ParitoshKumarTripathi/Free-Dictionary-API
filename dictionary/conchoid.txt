@@ -4,3 +4,10 @@ Con"choid, n. Etym: [Gr. conchoïde.] (Geom.)
 Defn: A curve, of the fourth degree, first made use of by the Greek
 geometer, Nicomedes, who invented it for the purpose of trisecting an
 angle and duplicating the cube.
+
+=====
+Con"choid, n. Etym: [Gr. conchoïde.] (Geom.)
+
+Defn: A curve, of the fourth degree, first made use of by the Greek
+geometer, Nicomedes, who invented it for the purpose of trisecting an
+angle and duplicating the cube.

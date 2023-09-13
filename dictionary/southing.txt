@@ -16,3 +16,22 @@ declination; south latitude.
 
 Defn: Distance southward from any point departure or of reckoning,
 measured on a meridian; -- opposed to northing.
+
+=====
+South"ing, n.
+
+1. Tendency or progress southward; as, the southing of the sun.
+Emerson.
+
+2. The time at which the moon, or other heavenly body, passes the
+meridian of a place.
+
+3. (Astron.)
+
+Defn: Distance of any heavenly body south of the equator; south
+declination; south latitude.
+
+4. (Surv. & Navigation)
+
+Defn: Distance southward from any point departure or of reckoning,
+measured on a meridian; -- opposed to northing.

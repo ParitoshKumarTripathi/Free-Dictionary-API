@@ -5,3 +5,11 @@ Defn: Of the fifth degree or order.
  -- n. (Alg.)
 
 Defn: A quantic of the fifth degree. See Quantic.
+
+=====
+Quin"tic, a. Etym: [L. quintus fifth, fr. quinque five.] (Alg.)
+
+Defn: Of the fifth degree or order.
+ -- n. (Alg.)
+
+Defn: A quantic of the fifth degree. See Quantic.

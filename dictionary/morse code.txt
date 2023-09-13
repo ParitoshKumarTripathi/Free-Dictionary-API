@@ -10,3 +10,16 @@ a letter is equal to one dot; the interval in spaced letters, as O .
 wholly or in part of dashes.
 
 Alphabet
+
+=====
+Morse" code". (Teleg.)
+
+Defn: The telegraphic code, consisting of dots, dashes, and spaces,
+invented by Samuel B. Morse. The Alphabetic code which is in use in
+North America is given below. In length, or duration, one dash is
+theoretically equal to three dots; the space between the elements of
+a letter is equal to one dot; the interval in spaced letters, as O .
+., is equal to three dots. There are no spaces in any letter composed
+wholly or in part of dashes.
+
+Alphabet

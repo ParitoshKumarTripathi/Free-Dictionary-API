@@ -5,3 +5,11 @@ Defn: A curved line, such that a heavy body, descending along it by
 the action of gravity, will always arrive at the lowest point in the
 same time, wherever in the curve it may begin to fall; as, an
 inverted cycloid with its base horizontal is a tautochrone.
+
+=====
+Tau"to*chrone, n. Etym: [Gr. tautochrone.] (Math.)
+
+Defn: A curved line, such that a heavy body, descending along it by
+the action of gravity, will always arrive at the lowest point in the
+same time, wherever in the curve it may begin to fall; as, an
+inverted cycloid with its base horizontal is a tautochrone.

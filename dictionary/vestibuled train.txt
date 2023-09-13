@@ -2,3 +2,8 @@ VESTIBULED TRAIN
 Vestibuled train. (Railroad)
 
 Defn: Same as Vestibule  train, under Vestibule.
+
+=====
+Vestibuled train. (Railroad)
+
+Defn: Same as Vestibule  train, under Vestibule.

@@ -3,3 +3,9 @@ Set chisel. (Mech.)
 
 Defn: A kind of chisel or punch, variously shaped, with a broad flat
 end, used for stripping off rivet heads, etc.
+
+=====
+Set chisel. (Mech.)
+
+Defn: A kind of chisel or punch, variously shaped, with a broad flat
+end, used for stripping off rivet heads, etc.

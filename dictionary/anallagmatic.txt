@@ -6,3 +6,12 @@ of curves of the fourth degree which have certain peculiar relations
 to circles; -- sometimes called bicircular quartics.
  -- Anallagmatic surfaces, a certain class of surfaces of the fourth
 degree.
+
+=====
+An`al*lag*mat"ic, a. Etym: [Gr. (Math.)
+
+Defn: Not changed in form by inversion. Anallagmatic curves, a class
+of curves of the fourth degree which have certain peculiar relations
+to circles; -- sometimes called bicircular quartics.
+ -- Anallagmatic surfaces, a certain class of surfaces of the fourth
+degree.

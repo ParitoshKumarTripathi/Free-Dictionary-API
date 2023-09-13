@@ -29,3 +29,33 @@ CAMBER
 Cam"ber, v. i.
 
 Defn: To curve upward.
+
+=====
+Cam"ber, n. Etym: [Of. cambre bent, curved; akin to F. cambrer to
+vault, to bend, fr. L. camerare to arch over, fr. camera vault, arch.
+See Chamber, and cf. Camerate.]
+
+1. (Shipbuilding)
+
+Defn: An upward convexity of a deck or other surface; as, she has a
+high camber (said of a vessel having an unusual convexity of deck).
+
+2. (Arch.)
+
+Defn: An upward concavity in the under side of a beam, girder, or
+lintel; also, a slight upward concavity in a straight arch. See
+Hogback. Camber arch (Arch.), an arch whose intrados, though
+apparently straight, has a slightly concave curve upward.
+ -- Camber beam (Arch.), a beam whose under side has a concave curve
+upward.
+
+=====
+Cam"ber, v. t. [imp. & p. p. Cambered; p. pr. & vb. n. Cambering.]
+
+Defn: To cut bend to an upward curve; to construct, as a deck, with
+an upward curve.
+
+=====
+Cam"ber, v. i.
+
+Defn: To curve upward.

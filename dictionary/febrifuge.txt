@@ -6,3 +6,12 @@ Defn: A medicine serving to mitigate or remove fever.
  -- a.
 
 Defn: Antifebrile.
+
+=====
+Feb"ri*fuge, n. Etym: [L. febris fever + fugare to put to flight,
+from fugere to flee: cf. F. fébrifuge. see Febrile, Feverfew.] (Med.)
+
+Defn: A medicine serving to mitigate or remove fever.
+ -- a.
+
+Defn: Antifebrile.

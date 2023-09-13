@@ -2,3 +2,8 @@ TORSION GALVANOMETER
 Torsion galvanometer. (Elec.)
 
 Defn: A galvanometer in which current is measured by torsion.
+
+=====
+Torsion galvanometer. (Elec.)
+
+Defn: A galvanometer in which current is measured by torsion.

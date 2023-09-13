@@ -15,3 +15,20 @@ Hy*per"bo*loid, a. (Geom.)
 
 Defn: Having some property that belongs to an hyperboloid or
 hyperbola.
+
+=====
+Hy*per"bo*loid, n. Etym: [Hyperbola + -oid: cf. F. hyperboloïde.]
+(Geom.)
+
+Defn: A surface of the second order, which is cut by certain planes
+in hyperbolas; also, the solid, bounded in part by such a surface.
+Hyperboloid of revolution, an hyperboloid described by an hyperbola
+revolving about one of its axes. The surface has two separate sheets
+when the axis of revolution is the transverse axis, but only one when
+the axis of revolution is the conjugate axis of the hyperbola.
+
+=====
+Hy*per"bo*loid, a. (Geom.)
+
+Defn: Having some property that belongs to an hyperboloid or
+hyperbola.

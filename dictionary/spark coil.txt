@@ -4,3 +4,10 @@ Spark coil. (Elec.)
 wireless telegraph apparatus, etc.
  (b) A self-induction coil used to increase the spark in an electric
 gas-lighting apparatus.
+
+=====
+Spark coil. (Elec.)
+ (a) An induction coil, esp. of an internal-combustion engine,
+wireless telegraph apparatus, etc.
+ (b) A self-induction coil used to increase the spark in an electric
+gas-lighting apparatus.

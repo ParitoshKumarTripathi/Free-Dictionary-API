@@ -3,3 +3,9 @@ Core loss. (Elec.)
 
 Defn: Energy wasted by hysteresis or eddy currents in the core of an
 armature, transformer, etc.
+
+=====
+Core loss. (Elec.)
+
+Defn: Energy wasted by hysteresis or eddy currents in the core of an
+armature, transformer, etc.

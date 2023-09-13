@@ -4,3 +4,10 @@ Beck's scale.
 Defn: A hydrometer scale on which the zero point corresponds to sp.
 gr. 1.00, and the 30º-point to sp. gr. 0.85. From these points the
 scale is extended both ways, all the degrees being of equal length.
+
+=====
+Beck's scale.
+
+Defn: A hydrometer scale on which the zero point corresponds to sp.
+gr. 1.00, and the 30º-point to sp. gr. 0.85. From these points the
+scale is extended both ways, all the degrees being of equal length.

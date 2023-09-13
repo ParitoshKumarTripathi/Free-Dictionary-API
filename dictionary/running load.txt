@@ -4,3 +4,10 @@ Run"ning load. (Aëronautics)
 a wing.
  (b) Commonly, the whole weight of aëroplane and load divided by the
 span, or length from tip to tip.
+
+=====
+Run"ning load. (Aëronautics)
+ (a) The air pressure supported by each longitudinal foot segment of
+a wing.
+ (b) Commonly, the whole weight of aëroplane and load divided by the
+span, or length from tip to tip.

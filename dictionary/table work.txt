@@ -3,3 +3,9 @@ Table work. (Print.)
 
 Defn: Typesetting of tabular nmatter, or the type matter set in
 tabular form.
+
+=====
+Table work. (Print.)
+
+Defn: Typesetting of tabular nmatter, or the type matter set in
+tabular form.

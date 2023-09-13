@@ -5,3 +5,11 @@ Defn: Not astigmatic; --said esp. of a lens system which consists of
 a converging lens and a diverging lens of equal and opposite
 astigmatism but different focal lengths, and sensibly free from
 astigmatism.
+
+=====
+An*as`tig*mat"ic, a. [Pref. an-not + astigmatic.] (Optics)
+
+Defn: Not astigmatic; --said esp. of a lens system which consists of
+a converging lens and a diverging lens of equal and opposite
+astigmatism but different focal lengths, and sensibly free from
+astigmatism.

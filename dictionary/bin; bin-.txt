@@ -2,3 +2,8 @@ BIN; BIN-
 Bin*.
 
 Defn: A euphonic form of the prefix Bi-.
+
+=====
+Bin*.
+
+Defn: A euphonic form of the prefix Bi-.

@@ -2,3 +2,8 @@ SUBEQUAL
 Sub*e"qual, a.
 
 Defn: Nearly equal.
+
+=====
+Sub*e"qual, a.
+
+Defn: Nearly equal.

@@ -10,3 +10,16 @@ thus a foot and yard are commensurable, since both can be expressed
 in terms of an inch, one being 12 inches, the other 36 inches.
  -- Numbers, or Quantities, commensurable in power, those whose
 squares are commensurable.
+
+=====
+Com*men"su*ra*ble, a. Etym: [L. commensurabilis; pref. com- +
+mensurable. See Commensurate, and cf. Commeasurable.]
+
+Defn: Having a common measure; capable of being exactly measured by
+the same number, quantity, or measure.
+ -- Com*men"su*ra*ble*ness, n. Commensurable numbers or quantities
+(Math.), those that can be exactly expressed by some common unit;
+thus a foot and yard are commensurable, since both can be expressed
+in terms of an inch, one being 12 inches, the other 36 inches.
+ -- Numbers, or Quantities, commensurable in power, those whose
+squares are commensurable.

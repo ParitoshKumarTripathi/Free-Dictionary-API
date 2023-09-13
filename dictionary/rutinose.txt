@@ -4,3 +4,10 @@ Rutinose
 Defn: A disaccharide present in glycosides. Prepared from rutin by
 hydrolysis with rhamnodiastase. 6-O-a-L-rhamnosyl-D-glucose;
 C12H22O10.
+
+=====
+Rutinose
+
+Defn: A disaccharide present in glycosides. Prepared from rutin by
+hydrolysis with rhamnodiastase. 6-O-a-L-rhamnosyl-D-glucose;
+C12H22O10.

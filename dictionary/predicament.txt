@@ -13,3 +13,19 @@ Defn: See Category.
 
 Syn.
  -- Category; condition; state; plight.
+
+=====
+Pre*dic"a*ment, n. Etym: [Cf. F. prédicament, L. praedicamentum. See
+Predicate.]
+
+1. A class or kind described by any definite marks; hence, condition;
+particular situation or state; especially, an unfortunate or trying
+position or condition. "O woeful sympathy; piteous predicament!"
+Shak.
+
+2. (Logic)
+
+Defn: See Category.
+
+Syn.
+ -- Category; condition; state; plight.

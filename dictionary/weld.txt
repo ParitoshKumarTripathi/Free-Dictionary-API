@@ -43,3 +43,46 @@ Defn: The state of being welded; the joint made by welding. Butt
 weld. See under Butt.
  -- Scarf weld, a joint made by overlapping, and welding together,
 the scarfed ends of two pieces.
+
+=====
+Weld, v. t.
+
+Defn: To wield. [Obs.] Chaucer.
+
+=====
+Weld, n. Etym: [OE. welde; akin to Scot. wald, Prov. G. waude, G.
+wau, Dan. & Sw. vau, D. wouw.]
+
+1. (Bot.)
+
+Defn: An herb (Reseda luteola) related to mignonette, growing in
+Europe, and to some extent in America; dyer's broom; dyer's rocket;
+dyer's weed; wild woad. It is used by dyers to give a yellow color.
+[Written also woald, wold, and would.]
+
+2. Coloring matter or dye extracted from this plant.
+
+=====
+Weld, v. t. [imp. & p. p. Welded; p. pr. & vb. n. Welding.] Etym:
+[Probably originally the same word as well to spring up, to gush;
+perhaps from the Scand.; cf. Sw. välla to weld, uppvälla to boil up,
+to spring up, Dan. vælde to gush, G. wellen to weld. See Well to
+spring.]
+
+1. To press or beat into intimate and permanent union, as two pieces
+of iron when heated almost to fusion.
+
+Note: Very few of the metals, besides iron and platinum. are capable
+of being welded. Horn and tortoise shell possess this useful
+property.
+
+2. Fig.: To unite closely or intimately.
+Two women faster welded in one love. Tennyson.
+
+=====
+Weld, n.
+
+Defn: The state of being welded; the joint made by welding. Butt
+weld. See under Butt.
+ -- Scarf weld, a joint made by overlapping, and welding together,
+the scarfed ends of two pieces.

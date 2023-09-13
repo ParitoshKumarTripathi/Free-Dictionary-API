@@ -5,3 +5,11 @@ who first described it.] (Physics)
 Defn: The dark space within the negative-pole glow at the cathode of
 a vacuum tube, observed only when the pressure is low enough to give
 a striated discharge; -- called also Crookes layer.
+
+=====
+Crookes space (krooks). [After Sir William Crookes, English chemist,
+who first described it.] (Physics)
+
+Defn: The dark space within the negative-pole glow at the cathode of
+a vacuum tube, observed only when the pressure is low enough to give
+a striated discharge; -- called also Crookes layer.

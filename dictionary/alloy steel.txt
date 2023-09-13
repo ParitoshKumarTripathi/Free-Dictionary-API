@@ -4,3 +4,10 @@ Al"loy steel.
 Defn: Any steel containing a notable quantity of some other metal
 alloyed with the iron, usually chromium, nickel, manganese, tungsten,
 or vanadium.
+
+=====
+Al"loy steel.
+
+Defn: Any steel containing a notable quantity of some other metal
+alloyed with the iron, usually chromium, nickel, manganese, tungsten,
+or vanadium.

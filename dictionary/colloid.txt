@@ -21,3 +21,26 @@ Defn: A gelatinous substance found in colloid degeneration and
 colloid cancer. Styptic colloid (Med.), a preparation of astringent
 and antiseptic substances with some colloid material, as collodion,
 for ready use.
+
+=====
+Col"loid, a. Etym: [Gr. -oid. Cf. Collodion.]
+
+Defn: Resembling glue or jelly; characterized by a jellylike
+appearance; gelatinous; as, colloid tumors.
+
+=====
+Col"loid, n.
+
+1. (Physiol. Chem.)
+
+Defn: A substance (as albumin, gum, gelatin, etc.) which is of a
+gelatinous rather than a crystalline nature, and which diffuses
+itself through animal membranes or vegetable parchment more slowly
+than crystalloids do; -- opposed to crystalloid.
+
+2. (Med.)
+
+Defn: A gelatinous substance found in colloid degeneration and
+colloid cancer. Styptic colloid (Med.), a preparation of astringent
+and antiseptic substances with some colloid material, as collodion,
+for ready use.

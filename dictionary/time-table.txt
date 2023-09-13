@@ -17,3 +17,23 @@ representing the speed and position of various trains.
 
 Defn: A table showing the notation, length, or duration of the
 several notes.
+
+=====
+Time"-ta`ble, n.
+
+1. A tabular statement of the time at which, or within which, several
+things are to take place, as the recitations in a school, the
+departure and arrival of railroad trains or other public conveyances,
+the rise and fall of the tides, etc.
+
+2. (Railroad)
+
+Defn: A plane surface divided in one direction with lines
+representing hours and minutes, and in the other with lines
+representing miles, and having diagonals (usually movable strings)
+representing the speed and position of various trains.
+
+3. (Mus.)
+
+Defn: A table showing the notation, length, or duration of the
+several notes.

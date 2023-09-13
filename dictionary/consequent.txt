@@ -34,3 +34,39 @@ or inference.
 
 Defn: The second term of a ratio, as the term b in the ratio a:b, the
 first a, being the antecedent.
+
+=====
+Con"se*quent, a. Etym: [L. consequens, -entis, p. pr. of consequi to
+follow; con- + sequi to follow: cf. F. conséquent. See Second, and
+cf. Consecution.]
+
+1. Following as a result, inference, or natural effect.
+The right was consequent to, and built on, an act perfectly personal.
+Locke.
+
+2. (Logic)
+
+Defn: Following by necessary inference or rational deduction; as, a
+proposition consequent to other propositions. Consequent points,
+Consequent poles (Magnetism), a number of poles distributed under
+certain conditions, along the axis of a magnetized steel bar, which
+regularly has but the two poles at the extremities.
+
+=====
+Con"se*quent, n.
+
+1. That which follows, or results from, a cause; a result or natural
+effect.
+They were ill-governed, which is always a consequent of ill payment.
+Sir J. Davies.
+
+2. (Logic)
+
+Defn: That which follows from propositions by rational deduction;
+that which is deduced from reasoning or argumentation; a conclusion,
+or inference.
+
+3. (Math.)
+
+Defn: The second term of a ratio, as the term b in the ratio a:b, the
+first a, being the antecedent.

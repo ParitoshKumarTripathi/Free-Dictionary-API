@@ -3,3 +3,9 @@ Lamp"light`, n.
 
 Defn: Light from a lamp.
 This world's artificial lamplights. Owen Meredith.
+
+=====
+Lamp"light`, n.
+
+Defn: Light from a lamp.
+This world's artificial lamplights. Owen Meredith.

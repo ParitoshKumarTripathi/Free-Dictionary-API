@@ -11,3 +11,17 @@ to a supposed connection with Gr.
 
 2. The art of calculating with any species of notation; as, the
 algorithms of fractions, proportions, surds, etc.
+
+=====
+Al"go*rism, Al"go*rithm, n. Etym: [OE. algorism, algrim, augrim, OF.
+algorisme, F. algorithme (cf. Sp. algoritmo, OSp. alguarismo, LL.
+algorismus), fr. the Ar. al-Khowarezmi of Khowarezm, the modern
+Khiwa, surname of Abu Ja'far Mohammed ben Musa, author of a work on
+arithmetic early in the 9th century, which was translated into Latin,
+such books bearing the name algorismus. The spelling with th is due
+to a supposed connection with Gr.
+
+1. The art of calculating by nine figures and zero.
+
+2. The art of calculating with any species of notation; as, the
+algorithms of fractions, proportions, surds, etc.

@@ -4,3 +4,10 @@
 Defn: A suffix denoting that the substance in the name of which it
 appears belongs to the series of alcohols or hydroxyl derivatives, as
 carbinol, glycerol, etc.
+
+=====
+-ol. Etym: [From alcohol.] (Chem.)
+
+Defn: A suffix denoting that the substance in the name of which it
+appears belongs to the series of alcohols or hydroxyl derivatives, as
+carbinol, glycerol, etc.

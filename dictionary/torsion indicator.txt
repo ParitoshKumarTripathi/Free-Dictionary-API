@@ -2,3 +2,8 @@ TORSION INDICATOR
 Torsion indicator.
 
 Defn: An autographic torsion meter.
+
+=====
+Torsion indicator.
+
+Defn: An autographic torsion meter.

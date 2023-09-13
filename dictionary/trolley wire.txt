@@ -3,3 +3,9 @@ Trolley wire.
 
 Defn: A heavy conducting wire on which the trolley car runs and from
 which it receives the current.
+
+=====
+Trolley wire.
+
+Defn: A heavy conducting wire on which the trolley car runs and from
+which it receives the current.

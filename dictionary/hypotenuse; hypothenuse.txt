@@ -4,3 +4,10 @@ Hy*pot"e*nuse, Hy*poth"e*nuse, n. Etym: [L. hypotenusa, Gr. Subtend.]
 
 Defn: The side of a right-angled triangle that is opposite to the
 right angle.
+
+=====
+Hy*pot"e*nuse, Hy*poth"e*nuse, n. Etym: [L. hypotenusa, Gr. Subtend.]
+(Geom.)
+
+Defn: The side of a right-angled triangle that is opposite to the
+right angle.

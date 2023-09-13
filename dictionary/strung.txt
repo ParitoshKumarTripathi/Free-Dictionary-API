@@ -2,3 +2,8 @@ STRUNG
 Strung,
 
 Defn: imp. & p. p. of String.
+
+=====
+Strung,
+
+Defn: imp. & p. p. of String.

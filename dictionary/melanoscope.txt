@@ -6,3 +6,12 @@ that they transmit only red light, so that objects of other colors,
 as green leaves, appear black when seen through it. It is used for
 viewing colored flames, to detect the presence of potassium, lithium,
 etc., by the red light which they emit.
+
+=====
+Me*lan"o*scope, n. Etym: [Gr. -scope.] (Opt.)
+
+Defn: An instrument containing a combination of colored glasses such
+that they transmit only red light, so that objects of other colors,
+as green leaves, appear black when seen through it. It is used for
+viewing colored flames, to detect the presence of potassium, lithium,
+etc., by the red light which they emit.

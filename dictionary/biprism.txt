@@ -8,3 +8,14 @@ Defn: A prism whose refracting angle is very nearly 180 degrees.
 2.  A combination of two short rectangular glass prisms cemented
 together at their diagonal faces so as to form a cube; -- called also
 optical cube. It is used in one form of photometer.
+
+=====
+Bi"prism, n. [Pref. bi- + prism.]
+
+1.
+
+Defn: A prism whose refracting angle is very nearly 180 degrees.
+
+2.  A combination of two short rectangular glass prisms cemented
+together at their diagonal faces so as to form a cube; -- called also
+optical cube. It is used in one form of photometer.

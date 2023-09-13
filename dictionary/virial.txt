@@ -4,3 +4,10 @@ Vir"i*al, n. Etym: [L. vis, viris, force.] (Physics)
 Defn: A certain function relating to a system of forces and their
 points of application, -- first used by Clausius in the investigation
 of problems in molecular physics.
+
+=====
+Vir"i*al, n. Etym: [L. vis, viris, force.] (Physics)
+
+Defn: A certain function relating to a system of forces and their
+points of application, -- first used by Clausius in the investigation
+of problems in molecular physics.

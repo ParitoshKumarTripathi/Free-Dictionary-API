@@ -6,3 +6,12 @@ Defn: Having three sides; being three-sided; as, a trilateral
 triangle.
  -- Tri*lat"er*al*ly, adv.
  -- Tri*lat"er*al*ness, n.
+
+=====
+Tri*lat"er*al, a.Etym: [L. trilaterus; tri- (see Tri-) + latus,
+lateris, side: cf. F. trilatéral. See Lateral.] (Geom.)
+
+Defn: Having three sides; being three-sided; as, a trilateral
+triangle.
+ -- Tri*lat"er*al*ly, adv.
+ -- Tri*lat"er*al*ness, n.

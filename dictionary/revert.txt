@@ -46,3 +46,50 @@ Re*vert", n.
 Defn: One who, or that which, reverts.
 An active promoter in making the East Saxons converts, or rather
 reverts, to the faith. Fuller.
+
+=====
+Re*vert", v. t. [imp. & p. p. Reverted; p. pr. & vb. n. Reverting.]
+Etym: [L. revertere, reversum; pref. re- re- + vertere to turn: cf.
+OF. revertir. See Verse, and cf. Reverse.]
+
+1. To turn back, or to the contrary; to reverse.
+Till happy chance revert the cruel scence. Prior.
+The tumbling stream . . . Reverted, plays in undulating flow.
+Thomson.
+
+2. To throw back; to reflect; to reverberate.
+
+3. (Chem.)
+
+Defn: To change back. See Revert, v. i. To revert a series (Alg.), to
+treat a series, as y = a + bx + cx2 + etc., where one variable y is
+expressed in powers of a second variable x, so as to find therefrom
+the second variable x, expressed in a series arranged in powers of y.
+
+=====
+Re*vert", v. i.
+
+1. To return; to come back.
+So that my arrows Would have reverted to my bow again. Shak.
+
+2. (Law)
+
+Defn: To return to the proprietor after the termination of a
+particular estate granted by him.
+
+3. (Biol.)
+
+Defn: To return, wholly or in part, towards some preëxistent form; to
+take on the traits or characters of an ancestral type.
+
+4. (Chem.)
+
+Defn: To change back, as from a soluble to an insoluble state or the
+reverse; thus, phosphoric acid in certain fertilizers reverts.
+
+=====
+Re*vert", n.
+
+Defn: One who, or that which, reverts.
+An active promoter in making the East Saxons converts, or rather
+reverts, to the faith. Fuller.

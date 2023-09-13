@@ -10,3 +10,15 @@ METHYLATE
 Meth"yl*ate, v. t.
 
 Defn: To impregnate or mix with methyl or methyl alcohol.
+
+=====
+Meth"yl*ate, n. Etym: [Methyl + alcoholate.] (Chem.)
+
+Defn: An alcoholate of methyl alcohol in which the hydroxyl hydrogen
+is replaced by a metal, after the analogy of a hydrate; as, sodium
+methylate, CH3ONa.
+
+=====
+Meth"yl*ate, v. t.
+
+Defn: To impregnate or mix with methyl or methyl alcohol.

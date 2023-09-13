@@ -2,3 +2,8 @@ SERIES TURNS
 Series turns. (Elec.)
 
 Defn: The turns in a series circuit.
+
+=====
+Series turns. (Elec.)
+
+Defn: The turns in a series circuit.

@@ -4,3 +4,10 @@ Cath"e*tus, n.; pl. catheti. Etym: [L., fr. Gr. Catheter.] (Geom.)
 Defn: One line or radius falling perpendicularly on another; as, the
 catheti of a right-angled triangle, that is, the two sides that
 include the right angle. Barlow.
+
+=====
+Cath"e*tus, n.; pl. catheti. Etym: [L., fr. Gr. Catheter.] (Geom.)
+
+Defn: One line or radius falling perpendicularly on another; as, the
+catheti of a right-angled triangle, that is, the two sides that
+include the right angle. Barlow.

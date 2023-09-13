@@ -17,3 +17,22 @@ Defn: A man of middle rank in society; one of the shopkeeping class.
 [France.] a.
 
 Defn: Characteristic of the middle class, as in France.
+
+=====
+Bour*geois", n. Etym: [From a French type founder named Bourgeois, or
+fr. F. bourgeois of the middle class; hence applied to an
+intermediate size of type between brevier and long primer: cf. G.
+bourgeois, borgis. Cf. Burgess.] (Print.)
+
+Defn: A size of type between long primer and brevier. See Type.
+
+Note: This line is printed in bourgeois type.
+
+=====
+Bour*geois", n. Etym: [F., fr. bourg town; of German origin. See
+Burgess.]
+
+Defn: A man of middle rank in society; one of the shopkeeping class.
+[France.] a.
+
+Defn: Characteristic of the middle class, as in France.

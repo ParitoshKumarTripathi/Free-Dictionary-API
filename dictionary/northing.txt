@@ -10,3 +10,16 @@ measured on a meridian; -- opposed to Ant: southing.
 
 Defn: The distance of any heavenly body from the equator northward;
 north declination.
+
+=====
+North"ing, n.
+
+1. (Surv. & Navigation)
+
+Defn: Distance northward from any point of departure or of reckoning,
+measured on a meridian; -- opposed to Ant: southing.
+
+2. (Astron.)
+
+Defn: The distance of any heavenly body from the equator northward;
+north declination.

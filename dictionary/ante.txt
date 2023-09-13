@@ -9,3 +9,14 @@ ANTE
 An"te, v. t. & i.
 
 Defn: To put up (an ante).
+
+=====
+An"te, n. (Poker Playing)
+
+Defn: Each player's stake, which is put into the pool before (ante)
+the game begins.
+
+=====
+An"te, v. t. & i.
+
+Defn: To put up (an ante).

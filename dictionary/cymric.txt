@@ -5,3 +5,11 @@ Defn: Welsh.
  -- n.
 
 Defn: The Welsh language. [Written also Kymric.]
+
+=====
+Cym"ric (km"rk), a. Etym: [W. Cymru Wales.]
+
+Defn: Welsh.
+ -- n.
+
+Defn: The Welsh language. [Written also Kymric.]

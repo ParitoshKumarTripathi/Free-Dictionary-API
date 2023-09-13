@@ -3,3 +3,9 @@ Full house. (Poker)
 
 Defn: A hand containing three of a kind and a pair, as three kings
 and two tens. It ranks above a flush and below four of a kind.
+
+=====
+Full house. (Poker)
+
+Defn: A hand containing three of a kind and a pair, as three kings
+and two tens. It ranks above a flush and below four of a kind.

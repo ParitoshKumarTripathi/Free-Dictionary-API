@@ -11,3 +11,17 @@ curved form and shrill note.
 Defn: A spiral whose polar equation is r2th = a; that is, a curve the
 square of whose radius vector varies inversely as the angle which the
 radius vector makes with a given line.
+
+=====
+Lit"u*us, n.; pl. Litui. Etym: [L.]
+
+1. (Rom. Antig.)
+(a) A curved staff used by the augurs in quartering the heavens.
+(b) An instrument of martial music; a kind of trumpet of a somewhat
+curved form and shrill note.
+
+2. (Math.)
+
+Defn: A spiral whose polar equation is r2th = a; that is, a curve the
+square of whose radius vector varies inversely as the angle which the
+radius vector makes with a given line.

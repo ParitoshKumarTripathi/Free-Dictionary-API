@@ -2,3 +2,8 @@ SUBDECUPLE
 Sub*dec"u*ple, a.
 
 Defn: Containing one part of ten.
+
+=====
+Sub*dec"u*ple, a.
+
+Defn: Containing one part of ten.

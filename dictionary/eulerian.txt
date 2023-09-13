@@ -4,3 +4,10 @@ Eu*le"ri*an a.
 Defn: Pertaining Euler, a German mathematician of the 18th century.
 Eulerian integrals, certain definite integrals whose properties were
 first investigated by Euler.
+
+=====
+Eu*le"ri*an a.
+
+Defn: Pertaining Euler, a German mathematician of the 18th century.
+Eulerian integrals, certain definite integrals whose properties were
+first investigated by Euler.

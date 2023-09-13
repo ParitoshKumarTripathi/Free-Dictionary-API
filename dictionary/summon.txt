@@ -19,3 +19,25 @@ Defn: To call upon to surrender, as a fort.
 Syn.
  -- To call; cite; notify; convene; convoke; excite; invite; bid. See
 Call.
+
+=====
+Sum"mon, v. t. [imp. & p. p. Summoned; p. pr. & vb. n. Summoning.]
+Etym: [OE. somonen, OF. sumundre, semondre, F. semondre, from
+(assumed) LL. summonêre, for L. summonere to give a hint; sub under +
+monere to admonish, to warn. See Monition, and cf. Submonish.]
+
+1. To call, bid, or cite; to notify to come to appear; -- often with
+up.
+Stiffen the sinews, summon up the blood. Shak.
+Trumpets summon him to war. Dryden.
+
+2. To give notice to, or command to appear, as in court; to cite by
+authority; as, to summon witnesses.
+
+3. (Mil.)
+
+Defn: To call upon to surrender, as a fort.
+
+Syn.
+ -- To call; cite; notify; convene; convoke; excite; invite; bid. See
+Call.

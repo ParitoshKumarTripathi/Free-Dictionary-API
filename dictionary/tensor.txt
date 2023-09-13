@@ -11,3 +11,17 @@ Defn: The ratio of one vector to another in length, no regard being
 had to the direction of the two vectors; -- so called because
 considered as a stretching factor in changing one vector into
 another. See Versor.
+
+=====
+Ten"sor, n. Etym: [NL. See Tension.]
+
+1. (Anat.)
+
+Defn: A muscle that stretches a part, or renders it tense.
+
+2. (Geom.)
+
+Defn: The ratio of one vector to another in length, no regard being
+had to the direction of the two vectors; -- so called because
+considered as a stretching factor in changing one vector into
+another. See Versor.

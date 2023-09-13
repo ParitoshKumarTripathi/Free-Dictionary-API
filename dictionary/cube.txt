@@ -20,3 +20,25 @@ CUBE
 Cube, v. t. [imp. & p. p. Cubed (kbd); p. pr. & vb. n. Cubing.]
 
 Defn: To raise to the third power; to obtain the cube of.
+
+=====
+Cube (kb), n. Etym: [F. cube, L. cubus, fr. Gr.
+
+1. (Geom.)
+
+Defn: A regular solid body, with six equal square sides.
+
+2. (Math.)
+
+Defn: The product obtained by taking a number or quantity three times
+as a factor; as, 4x4=16, and 16x4=64, the cube of 4. Cube ore (Min.),
+pharmacosiderite. It commonly crystallizes in cubes of a green color.
+ -- Cube root. (Math.), the number or quantity which, multiplied into
+itself, and then into the product, produces the given cube; thus, 3
+is the cube root of 27, for 3x3x3 = 27.
+ -- Cube spar (Min.), anhydrite; anhydrous calcium sulphate.
+
+=====
+Cube, v. t. [imp. & p. p. Cubed (kbd); p. pr. & vb. n. Cubing.]
+
+Defn: To raise to the third power; to obtain the cube of.

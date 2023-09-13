@@ -6,3 +6,12 @@ Defn: A syllogism in which the proof of the major or minor premise,
 or both, is introduced with the premises themselves, and the
 conclusion is derived in the ordinary manner. [Written also
 epicheirema.]
+
+=====
+Ep`i*chi*re"ma, n.; pl. Epichiremata. Etym: [L., fr. Gr. (Rhet. &
+Logic)
+
+Defn: A syllogism in which the proof of the major or minor premise,
+or both, is introduced with the premises themselves, and the
+conclusion is derived in the ordinary manner. [Written also
+epicheirema.]

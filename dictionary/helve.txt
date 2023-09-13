@@ -15,3 +15,20 @@ HELVE
 Helve, v. t. [imp. & p. p. Helved; p. pr. & vb. n. Helving.]
 
 Defn: To furnish with a helve, as an ax.
+
+=====
+Helve, n. Etym: [OE. helve, helfe, AS. hielf, helf, hylf, cf. OHG.
+halb; and also E. halter, helm of a rudder.]
+
+1. The handle of an ax, hatchet, or adze.
+
+2. (Iron Working)
+(a) The lever at the end of which is the hammer head, in a forge
+hammer.
+(b) A forge hammer which is lifted by a cam acting on the helve
+between the fulcrum and the head.
+
+=====
+Helve, v. t. [imp. & p. p. Helved; p. pr. & vb. n. Helving.]
+
+Defn: To furnish with a helve, as an ax.

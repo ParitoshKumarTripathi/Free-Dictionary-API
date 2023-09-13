@@ -4,3 +4,10 @@ Series winding. (Elec.)
 Defn: A winding in which the armature coil and the field-magnet coil
 are in series with the external circuits; -- opposed to shunt
 winding. --Se"ries-wound`, a.
+
+=====
+Series winding. (Elec.)
+
+Defn: A winding in which the armature coil and the field-magnet coil
+are in series with the external circuits; -- opposed to shunt
+winding. --Se"ries-wound`, a.

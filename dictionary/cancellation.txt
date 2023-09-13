@@ -8,3 +8,14 @@ certain words in a contract, or of the contract itself.
 
 Defn: The operation of striking out common factora, in both the
 dividend and divisor.
+
+=====
+Can`cel*la"tion, n. Etym: [L. cancellatio: cf. F. cancellation.]
+
+1. The act, process, or result of canceling; as, the cansellation of
+certain words in a contract, or of the contract itself.
+
+2. (Math.)
+
+Defn: The operation of striking out common factora, in both the
+dividend and divisor.

@@ -2,3 +2,8 @@ CONE CLUTCH
 Cone clutch. (Mach.)
 
 Defn: A friction clutch with conical bearing surfaces.
+
+=====
+Cone clutch. (Mach.)
+
+Defn: A friction clutch with conical bearing surfaces.

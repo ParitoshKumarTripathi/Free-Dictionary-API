@@ -3,3 +3,9 @@ Door"plane`, n.
 
 Defn: A plane on a door, giving the name, and sometimes the
 employment, of the occupant.
+
+=====
+Door"plane`, n.
+
+Defn: A plane on a door, giving the name, and sometimes the
+employment, of the occupant.

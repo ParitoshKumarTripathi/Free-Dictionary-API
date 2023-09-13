@@ -18,3 +18,24 @@ Defn: A band or bundle of fibers; a frænum.
 
 Defn: A commissure uniting the two main tendons in the foot of
 certain birds.
+
+=====
+Vin"cu*lum, n.; pl. L. Vincula, E. Vinculums. Etym: [L., from
+vincire, vinctum, to bind.]
+
+1. A bond of union; a tie.
+
+2. (Math.)
+
+Defn: A straight, horizontal mark placed over two or more members of
+a compound quantity, which are to be subjected to the same operation,
+as in the expression x2 + y2 - x + y.
+
+3. (Anat.)
+
+Defn: A band or bundle of fibers; a frænum.
+
+4. (Zoöl.)
+
+Defn: A commissure uniting the two main tendons in the foot of
+certain birds.

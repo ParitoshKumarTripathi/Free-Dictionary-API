@@ -21,3 +21,26 @@ Coxe.
 
 Defn: An equation upon whose solution the solution of a given
 pproblem depends.
+
+=====
+Re*solv"ent (-ent), a.
+
+Defn: Having power to resolve; causing solution; solvent.
+
+=====
+Re*solv"ent, n. Etym: [L. resolvens, p. pr. of resolvere: cf. F.
+résolvant. See Resolve.]
+
+1. That which has the power of resolving, or causing solution; a
+solvent.
+
+2. (Med.)
+
+Defn: That which has power to disperse inflammatory or other tumors;
+a discutient; anything which aids the absorption of effused products.
+Coxe.
+
+3. (Math.)
+
+Defn: An equation upon whose solution the solution of a given
+pproblem depends.

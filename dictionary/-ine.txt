@@ -19,3 +19,25 @@ the termination -ine; as, gasoline, vaseline, etc.
 Defn: A suffix, used to indicate hydrocarbons of the second degree of
 unsaturation; i. e., members of the acetyline series; as, hexine,
 heptine, etc.
+
+=====
+-ine (; 104).
+
+1. (Chem.)
+
+Defn: A suffix, indicating that those substances of whose names it is
+a part are basic, and alkaloidal in their nature.
+
+Note: All organic bases, and basic substances (especially nitrogenous
+substances), are systematically written with the termination -ine;
+as, quinine, morphine, guanidine, etc. All indifferent and neutral
+substances, as proteids, glycerides, glucosides, etc., should
+commonly be spelled with -in; as, gelatin, amygdalin, etc. This rue
+has no application to those numerous commercial or popular names with
+the termination -ine; as, gasoline, vaseline, etc.
+
+2. (Organ. Chem.)
+
+Defn: A suffix, used to indicate hydrocarbons of the second degree of
+unsaturation; i. e., members of the acetyline series; as, hexine,
+heptine, etc.

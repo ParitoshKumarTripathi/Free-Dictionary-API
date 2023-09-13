@@ -2,3 +2,8 @@ DELTA CURRENT
 Delta current. (Elec.)
 
 Defn: The current flowing through a delta connection.
+
+=====
+Delta current. (Elec.)
+
+Defn: The current flowing through a delta connection.

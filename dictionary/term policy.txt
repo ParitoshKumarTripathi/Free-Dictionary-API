@@ -2,3 +2,8 @@ TERM POLICY
 Term policy.
 
 Defn: A policy of term insurance.
+
+=====
+Term policy.
+
+Defn: A policy of term insurance.

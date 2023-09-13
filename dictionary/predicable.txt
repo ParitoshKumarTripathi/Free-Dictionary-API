@@ -17,3 +17,22 @@ notion as affirmable of, or applicable to, many individuals.
 Defn: One of the five most general relations of attributes involved
 in logical arrangements, namely, genus, species, difference,
 property, and accident.
+
+=====
+Pred"i*ca*ble, a. Etym: [Cf. F. prédicable, L. praedicabilis
+praiseworthy. See Predicate.]
+
+Defn: Capable of being predicated or affirmed of something;
+affirmable; attributable.
+
+=====
+Pred"i*ca*ble, n.
+
+1. Anything affirmable of another; especially, a general attribute or
+notion as affirmable of, or applicable to, many individuals.
+
+2. (Logic)
+
+Defn: One of the five most general relations of attributes involved
+in logical arrangements, namely, genus, species, difference,
+property, and accident.

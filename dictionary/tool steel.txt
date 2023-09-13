@@ -3,3 +3,9 @@ Tool steel.
 
 Defn: Hard steel, usually crucible steel, capable of being tempered
 so as to be suitable for tools.
+
+=====
+Tool steel.
+
+Defn: Hard steel, usually crucible steel, capable of being tempered
+so as to be suitable for tools.

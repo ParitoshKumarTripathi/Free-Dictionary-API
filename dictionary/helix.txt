@@ -25,3 +25,31 @@ Defn: A genus of land snails, including a large number of species.
 
 Note: The genus originally included nearly all shells, but is now
 greatly restricted. See Snail, Pulmonifera.
+
+=====
+He"lix, n.; pl. L. Helices, E. Helixes. Etym: [L. helix, Gr. volvere,
+and E. volute, voluble.]
+
+1. (Geom.)
+
+Defn: A nonplane curve whose tangents are all equally inclined to a
+given plane. The common helix is the curve formed by the thread of
+the ordinary screw. It is distinguished from the spiral, all the
+convolutions of which are in the plane.
+
+2. (Arch.)
+
+Defn: A caulicule or little volute under the abacus of the Corinthian
+capital.
+
+3. (Anat.)
+
+Defn: The incurved margin or rim of the external ear. See Illust. of
+Ear.
+
+4. (Zoöl.)
+
+Defn: A genus of land snails, including a large number of species.
+
+Note: The genus originally included nearly all shells, but is now
+greatly restricted. See Snail, Pulmonifera.

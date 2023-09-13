@@ -5,3 +5,11 @@ Defn: An atom whose valence is six, and which can be theoretically
 combined with, substituted for, or replaced by, six monad atoms or
 radicals; as, sulphur is a hexad in sulphuric acid. Also used as an
 adjective.
+
+=====
+Hex"ad, n. Etym: [L. hexas, hexadis, the number six, Gr. (chem.)
+
+Defn: An atom whose valence is six, and which can be theoretically
+combined with, substituted for, or replaced by, six monad atoms or
+radicals; as, sulphur is a hexad in sulphuric acid. Also used as an
+adjective.

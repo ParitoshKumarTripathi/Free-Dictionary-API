@@ -3,3 +3,9 @@ Smoth"ered mate. (Chess)
 
 Defn: Checkmate given when movement of the king is completely
 obstructed by his own men.
+
+=====
+Smoth"ered mate. (Chess)
+
+Defn: Checkmate given when movement of the king is completely
+obstructed by his own men.

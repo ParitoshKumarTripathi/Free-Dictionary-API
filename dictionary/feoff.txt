@@ -13,3 +13,18 @@ FEOFF
 Feoff, n. (Law)
 
 Defn: A fief. See Fief.
+
+=====
+Feoff
+
+Defn: , v. t. [imp. & p. p. Feoffed; p. pr. & vb. n.. Feoffing.]
+Etym: [OE. feffen, OF. feffer, fieffer, F. fieffer, fr. fief fief;
+cf. LL. feoffare, fefare. See Fief.] (Law)
+
+Defn: To invest with a fee or feud; to give or grant a corporeal
+hereditament to; to enfeoff.
+
+=====
+Feoff, n. (Law)
+
+Defn: A fief. See Fief.

@@ -2,3 +2,8 @@ SLATE-COLOR
 Slate"-col`or.
 
 Defn: A dark bluish gray color.
+
+=====
+Slate"-col`or.
+
+Defn: A dark bluish gray color.

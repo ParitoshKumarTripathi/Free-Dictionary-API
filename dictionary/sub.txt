@@ -2,3 +2,8 @@ SUB
 Sub, n.
 
 Defn: A subordinate; a subaltern. [Colloq.]
+
+=====
+Sub, n.
+
+Defn: A subordinate; a subaltern. [Colloq.]

@@ -2,3 +2,8 @@ SMOKE BALL
 Smoke ball.
 
 Defn: Same as Puffball.
+
+=====
+Smoke ball.
+
+Defn: Same as Puffball.

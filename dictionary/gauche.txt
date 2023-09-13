@@ -6,3 +6,12 @@ Gauche, n. Etym: [F.]
 2. (Geom.)
 
 Defn: Winding; twisted; warped; -- applied to curves and surfaces.
+
+=====
+Gauche, n. Etym: [F.]
+
+1. Left handed; hence, awkward; clumsy.
+
+2. (Geom.)
+
+Defn: Winding; twisted; warped; -- applied to curves and surfaces.

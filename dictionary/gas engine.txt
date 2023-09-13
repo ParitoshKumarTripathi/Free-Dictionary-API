@@ -3,3 +3,9 @@ Gas engine. (Mach.)
 
 Defn: A kind of internal-combustion engine (which see) using fixed
 gas; also, broadly, any internal-combustion engine.
+
+=====
+Gas engine. (Mach.)
+
+Defn: A kind of internal-combustion engine (which see) using fixed
+gas; also, broadly, any internal-combustion engine.

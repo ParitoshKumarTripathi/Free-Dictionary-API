@@ -4,3 +4,10 @@ story of Dido and the bull's hide.] (Geom.)
 
 Defn: The curve which on a given surface and with a given perimeter
 contains the greatest area. Tait.
+
+=====
+Di*do"ni*a, n. Etym: [NL. So called in allusion to the classical
+story of Dido and the bull's hide.] (Geom.)
+
+Defn: The curve which on a given surface and with a given perimeter
+contains the greatest area. Tait.

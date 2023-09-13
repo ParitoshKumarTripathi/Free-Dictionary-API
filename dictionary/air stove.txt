@@ -4,3 +4,10 @@ Air" stove`.
 Defn: A stove for heating a current of air which is directed against
 its surface by means of pipes, and then distributed through a
 building.
+
+=====
+Air" stove`.
+
+Defn: A stove for heating a current of air which is directed against
+its surface by means of pipes, and then distributed through a
+building.

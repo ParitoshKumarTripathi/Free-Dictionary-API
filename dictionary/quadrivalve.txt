@@ -9,3 +9,14 @@ QUADRIVALVE
 Quad"ri*valve, n. (Arch.)
 
 Defn: A door, shutter, or the like, having four folds.
+
+=====
+Quad"ri*valve, a. Etym: [Quadri- + valve: cf. F. quadrivalve.] (Bot.)
+
+Defn: Dehiscent into four similar parts; four-valved; as, a
+quadrivalve pericarp.
+
+=====
+Quad"ri*valve, n. (Arch.)
+
+Defn: A door, shutter, or the like, having four folds.

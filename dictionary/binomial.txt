@@ -19,3 +19,24 @@ and plant receives two names, the one indicating the genus, the other
 the species, to which it belongs. Binomial theorem (Alg.), the
 theorem which expresses the law of formation of any power of a
 binomial.
+
+=====
+Bi*no"mi*al, n. Etym: [L. bis twice + nomen name: cf. F. binome, LL.
+binomius (or fr. bi- + Gr. distribution ). Cf. Monomial.] (Alg.)
+
+Defn: An expression consisting of two terms connected by the sign
+plus (+) or minus (-); as, a+b, or 7-3.
+
+=====
+Bi*no"mi*al, a.
+
+1. Consisting of two terms; pertaining to binomials; as, a binomial
+root.
+
+2. (Nat. Hist.)
+
+Defn: Having two names; -- used of the system by which every animal
+and plant receives two names, the one indicating the genus, the other
+the species, to which it belongs. Binomial theorem (Alg.), the
+theorem which expresses the law of formation of any power of a
+binomial.

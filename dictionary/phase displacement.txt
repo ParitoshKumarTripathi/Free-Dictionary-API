@@ -4,3 +4,10 @@ Phase displacement. (Elec.)
 Defn: A charge of phase whereby an alternating current attains its
 maximum later or earlier. An inductance would cause a lag, a capacity
 would cause an advance, in phase.
+
+=====
+Phase displacement. (Elec.)
+
+Defn: A charge of phase whereby an alternating current attains its
+maximum later or earlier. An inductance would cause a lag, a capacity
+would cause an advance, in phase.

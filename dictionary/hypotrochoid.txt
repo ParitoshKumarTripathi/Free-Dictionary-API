@@ -4,3 +4,10 @@ Hy`po*tro"choid, n. Etym: [Pref. hypo- + trochoid.] (Geom.)
 Defn: A curve, traced by a point in the radius, or radius produced,
 of a circle which rolls upon the concave side of a fixed circle. See
 Hypocycloid, Epicycloid, and Trochoid.
+
+=====
+Hy`po*tro"choid, n. Etym: [Pref. hypo- + trochoid.] (Geom.)
+
+Defn: A curve, traced by a point in the radius, or radius produced,
+of a circle which rolls upon the concave side of a fixed circle. See
+Hypocycloid, Epicycloid, and Trochoid.

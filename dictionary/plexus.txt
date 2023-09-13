@@ -10,3 +10,16 @@ Defn: A network of vessels, nerves, or fibers.
 
 Defn: The system of equations required for the complete expression of
 the relations which exist between a set of quantities. Brande & C.
+
+=====
+Plex"us, n.; pl. L. Plexus, E. Plexuses. Etym: [L., a twining, braid,
+fr. plectere, plexum, to twine, braid.]
+
+1. (Anat.)
+
+Defn: A network of vessels, nerves, or fibers.
+
+2. (Math.)
+
+Defn: The system of equations required for the complete expression of
+the relations which exist between a set of quantities. Brande & C.

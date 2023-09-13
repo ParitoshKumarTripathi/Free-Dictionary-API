@@ -3,3 +3,9 @@ Day"time`, n.
 
 Defn: The time during which there is daylight, as distinguished from
 the night.
+
+=====
+Day"time`, n.
+
+Defn: The time during which there is daylight, as distinguished from
+the night.

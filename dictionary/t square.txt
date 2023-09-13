@@ -2,3 +2,8 @@ T SQUARE
 T" square`.
 
 Defn: See under T.
+
+=====
+T" square`.
+
+Defn: See under T.

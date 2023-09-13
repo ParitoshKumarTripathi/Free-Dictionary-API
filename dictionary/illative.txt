@@ -15,3 +15,20 @@ ILLATIVE
 Il"la*tive, n.
 
 Defn: An illative particle, as for, because.
+
+=====
+Il"la*tive, a. Etym: [L. illativus: cf. F. illatif.]
+
+Defn: Relating to, dependent on, or denoting, illation; inferential;
+conclusive; as, an illative consequence or proposition; an illative
+word, as then, therefore, etc. Illative conversion (Logic), a
+converse or reverse statement of a proposition which in that form
+must be true because the original proposition is true.
+ -- Illative sense (Metaph.), the faculty of the mind by which it
+apprehends the conditions and determines upon the correctness of
+inferences.
+
+=====
+Il"la*tive, n.
+
+Defn: An illative particle, as for, because.

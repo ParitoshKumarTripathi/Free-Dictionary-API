@@ -14,3 +14,20 @@ Bearing, n., 9 (c).
  -- Surface of flotation (Shipbuilding), the imaginary surface which
 all the planes of flotation touch when a vessel rolls or pitches; the
 envelope of all such planes.
+
+=====
+Flo*ta"tion, n. Etym: [Cf. F. flottation a floating, flottaison water
+line, fr. flotter to float. See Flotilla.]
+
+1. The act, process, or state of floating.
+
+2. The science of floating bodies. Center of flotation.
+(Shipbuilding) (a) The center of any given plane of flotation. (b)
+More commonly, the middle of the length of the load water line.
+Rankine.
+ -- Plane, or Line, of flotation, the plane or line in which the
+horizontal surface of a fluid cuts a body floating in it. See
+Bearing, n., 9 (c).
+ -- Surface of flotation (Shipbuilding), the imaginary surface which
+all the planes of flotation touch when a vessel rolls or pitches; the
+envelope of all such planes.

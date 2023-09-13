@@ -3,3 +3,9 @@ Hys`ter*et"ic, a. (Elec.)
 
 Defn: Of or pert. to hysteresis. -- Hysteretic constant, the
 hysteretic loss in ergs per cubic centimeter per cycle.
+
+=====
+Hys`ter*et"ic, a. (Elec.)
+
+Defn: Of or pert. to hysteresis. -- Hysteretic constant, the
+hysteretic loss in ergs per cubic centimeter per cycle.

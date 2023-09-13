@@ -8,3 +8,14 @@ Knee"joint`, n.
 Defn: A toggle joint; -- so called because consisting of two pieces
 jointed to each other end to end, making an angle like the knee when
 bent.
+
+=====
+Knee"joint`, n.
+
+1. The joint of the knee.
+
+2. (Mach.)
+
+Defn: A toggle joint; -- so called because consisting of two pieces
+jointed to each other end to end, making an angle like the knee when
+bent.

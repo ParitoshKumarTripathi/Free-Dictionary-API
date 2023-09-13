@@ -2,3 +2,8 @@ INDUCTANCE COIL
 In*duc"tance coil. (Elec.)
 
 Defn: A choking coil.
+
+=====
+In*duc"tance coil. (Elec.)
+
+Defn: A choking coil.

@@ -38,3 +38,42 @@ of. Glanvill.
 
 Defn: To divide into two by natural growth or spontaneous action; as,
 infusoria duplicate themselves.
+
+=====
+Du"pli*cate, a. Etym: [L. duplicatus, p. p. of duplicare to double,
+fr. duplex double, twofold. See Duplex.]
+
+Defn: Double; twofold. Duplicate proportion or ratio (Math.), the
+proportion or ratio of squares. Thus, in geometrical proportion, the
+first term to the third is said to be in a duplicate ratio of the
+first to the second, or as its square is to the square of the second.
+Thus, in 2, 4, 8, 16, the ratio of 2 to 8 is a duplicate of that of 2
+to 4, or as the square of 2 is to the square of 4.
+
+=====
+Du"pli*cate, n.
+
+1. That which exactly resembles or corresponds to something else;
+another, correspondent to the first; hence, a copy; a transcript; a
+counterpart.
+I send a duplicate both of it and my last dispatch. Sir W. Temple.
+
+2. (Law)
+
+Defn: An original instrument repeated; a document which is the same
+as another in all essential particulars, and differing from a mere
+copy in having all the validity of an original. Burrill.
+
+=====
+Du"pli*cate, v. t. [imp. & p. p. Duplicated; p. pr. & vb. n.
+Duplicating.]
+
+1. To double; to fold; to render double.
+
+2. To make a duplicate of (something); to make a copy or transcript
+of. Glanvill.
+
+3. (Biol.)
+
+Defn: To divide into two by natural growth or spontaneous action; as,
+infusoria duplicate themselves.

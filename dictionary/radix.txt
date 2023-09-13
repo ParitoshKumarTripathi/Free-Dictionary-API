@@ -18,3 +18,24 @@ Hutton.
 3. (Bot.)
 
 Defn: The root of a plant.
+
+=====
+Ra"dix, n.; pl. Radices, E. Radixes. Etym: [L. radix, -icis, root.
+See Radish.]
+
+1. (Philol.)
+
+Defn: A primitive, from which spring other words; a radical; a root;
+an etymon.
+
+2. (Math.)
+(a) A number or quantity which is arbitrarily made the fundamental
+number of any system; a base. Thus, 10 is the radix, or base, of the
+common system of logarithms, and also of the decimal system of
+numeration.
+(b) (Alg.) A finite expression, from which a series is derived. [R.]
+Hutton.
+
+3. (Bot.)
+
+Defn: The root of a plant.

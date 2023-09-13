@@ -4,3 +4,10 @@ Three"-torque` system of control. (Aëronautics)
 Defn: Any system of rudders by which the pilot can exert a turning
 moment about each of the three rectangular axes of an aëroplane or
 airship.
+
+=====
+Three"-torque` system of control. (Aëronautics)
+
+Defn: Any system of rudders by which the pilot can exert a turning
+moment about each of the three rectangular axes of an aëroplane or
+airship.

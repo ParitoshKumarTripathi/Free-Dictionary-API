@@ -2,3 +2,8 @@ TWIGLESS
 Twig"less, a.
 
 Defn: Having no twigs.
+
+=====
+Twig"less, a.
+
+Defn: Having no twigs.

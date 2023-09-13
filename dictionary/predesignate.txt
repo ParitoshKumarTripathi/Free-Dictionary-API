@@ -5,3 +5,11 @@ Defn: A term used by Sir William Hamilton to define propositions
 having their quantity indicated by a verbal sign; as, all, none,
 etc.; -- contrasted with preindesignate, defining propositions of
 which the quantity is not so indicated.
+
+=====
+Pre*des"ig*nate, a. (Logic)
+
+Defn: A term used by Sir William Hamilton to define propositions
+having their quantity indicated by a verbal sign; as, all, none,
+etc.; -- contrasted with preindesignate, defining propositions of
+which the quantity is not so indicated.

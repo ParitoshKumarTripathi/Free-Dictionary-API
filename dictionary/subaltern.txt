@@ -21,3 +21,26 @@ commissioned military officer below the rank of captain.
 2. (Logic)
 
 Defn: A subaltern proposition. Whately.
+
+=====
+Sub*al"tern, a. Etym: [F. subalterne, LL. subalternus, fr. L. sub
+under + alter the one, the other of two. See Alter.]
+
+1. Ranked or ranged below; subordinate; inferior; specifically
+(Mil.), ranking as a junior officer; being below the rank of captain;
+as, a subaltern officer.
+
+2. (Logic)
+
+Defn: Asserting only a part of what is asserted in a related
+proposition. Subaltern genus. (Logic) See under Genus.
+
+=====
+Sub*al"tern, n.
+
+1. A person holding a subordinate position; specifically, a
+commissioned military officer below the rank of captain.
+
+2. (Logic)
+
+Defn: A subaltern proposition. Whately.

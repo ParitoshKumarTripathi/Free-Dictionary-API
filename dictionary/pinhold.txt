@@ -2,3 +2,8 @@ PINHOLD
 Pin"hold`, n.
 
 Defn: A place where a pin is fixed.
+
+=====
+Pin"hold`, n.
+
+Defn: A place where a pin is fixed.

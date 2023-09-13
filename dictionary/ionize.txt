@@ -4,3 +4,10 @@ I"on*ize, v. t.  [imp. & p. p. Ionized; p. pr. & vb. n. Ionizing.]
 
 Defn: To separate (a compound) into ions, esp. by dissolving in
 water. --I`on*i*za"tion (#), n.
+
+=====
+I"on*ize, v. t.  [imp. & p. p. Ionized; p. pr. & vb. n. Ionizing.]
+(Elec. Chem.)
+
+Defn: To separate (a compound) into ions, esp. by dissolving in
+water. --I`on*i*za"tion (#), n.

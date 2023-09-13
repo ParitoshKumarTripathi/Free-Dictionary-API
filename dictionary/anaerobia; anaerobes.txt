@@ -6,3 +6,12 @@ Defn: Anaërobic bacteria. They are called facultative anaërobia when
 able to live either in the presence or absence of free oxygen;
 obligate, or obligatory, anaërobia when they thrive only in its
 absence.
+
+=====
+An*a`ër*o"bi*a, An*a"ër*obes, n. pl. [NL. anaerobia; an-not + aëro- +
+Gr. life.] (Bacteriol.)
+
+Defn: Anaërobic bacteria. They are called facultative anaërobia when
+able to live either in the presence or absence of free oxygen;
+obligate, or obligatory, anaërobia when they thrive only in its
+absence.

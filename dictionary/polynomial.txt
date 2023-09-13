@@ -14,3 +14,19 @@ theorem.
 
 2. Consisting of two or more words; having names consisting of two or
 more words; as, a polynomial name; polynomial nomenclature.
+
+=====
+Pol`y*no"mi*al, n. Etym: [Poly- + -nomial, as in monomial, binomial:
+cf. F. polynôme.] (Alg.)
+
+Defn: An expression composed of two or more terms, connected by the
+signs plus or minus; as, a2 - 2ab + b2.
+
+=====
+Pol`y*no"mi*al, a.
+
+1. Containing many names or terms; multinominal; as, the polynomial
+theorem.
+
+2. Consisting of two or more words; having names consisting of two or
+more words; as, a polynomial name; polynomial nomenclature.

@@ -12,3 +12,18 @@ from effects. This is the reverse of a priori reasoning.
 
 Defn: Applied to knowledge which is based upon or derived from facts
 through induction or experiment; inductive or empirical.
+
+=====
+A` pos*te`ri*o"ri. Etym: [L. a (ab) + posterior latter.]
+
+1. (Logic)
+
+Defn: Characterizing that kind of reasoning which derives
+propositions from the observation of facts, or by generalizations
+from facts arrives at principles and definitions, or infers causes
+from effects. This is the reverse of a priori reasoning.
+
+2. (Philos.)
+
+Defn: Applied to knowledge which is based upon or derived from facts
+through induction or experiment; inductive or empirical.

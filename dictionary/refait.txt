@@ -7,3 +7,13 @@ Defn: a state of the game in which the aggregate pip value of cards
 dealt to red equals that of those dealt to black. All bets are then
 off; unless the value is 31, in which case the banker wins half the
 stakes.
+
+=====
+Re*fait", n. [F.] (Card Playing)
+
+Defn: A drawn game; specif. (Trente et quarante),
+
+Defn: a state of the game in which the aggregate pip value of cards
+dealt to red equals that of those dealt to black. All bets are then
+off; unless the value is 31, in which case the banker wins half the
+stakes.

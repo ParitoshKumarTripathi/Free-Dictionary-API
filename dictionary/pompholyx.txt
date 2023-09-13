@@ -9,3 +9,15 @@ Defn: Impure zinc oxide.
 
 Defn: A skin disease in which there is an eruption of bullæ, without
 inflammation or fever.
+
+=====
+Pom"pho*lyx, n. Etym: [L., fr. Gr.
+
+1. (Old Chem.)
+
+Defn: Impure zinc oxide.
+
+2. (Med.)
+
+Defn: A skin disease in which there is an eruption of bullæ, without
+inflammation or fever.

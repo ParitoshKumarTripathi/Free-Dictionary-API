@@ -7,3 +7,13 @@ includes the cod, haddock, and hake.
  -- n.
 
 Defn: One of the Gadidæ. [Written also gadid.]
+
+=====
+Ga"doid, a. Etym: [NL. gadus cod + -oid: cf. F. gadoïde gadoid, Gr.
+gade.] (Zoöl.)
+
+Defn: Of or pertaining to the family of fishes (Gadidæ) which
+includes the cod, haddock, and hake.
+ -- n.
+
+Defn: One of the Gadidæ. [Written also gadid.]

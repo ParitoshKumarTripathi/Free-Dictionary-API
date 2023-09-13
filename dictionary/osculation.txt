@@ -9,3 +9,15 @@ Defn: The contact of one curve with another, when the number of
 consecutive points of the latter through which the former passes
 suffices for the complete determination of the former curve. Brande &
 C.
+
+=====
+Os`cu*la"tion, n. Etym: [L. osculatio a kissing: cf. F. osculation.]
+
+1. The act of kissing; a kiss.
+
+2. (Geom.)
+
+Defn: The contact of one curve with another, when the number of
+consecutive points of the latter through which the former passes
+suffices for the complete determination of the former curve. Brande &
+C.

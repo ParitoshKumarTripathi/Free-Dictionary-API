@@ -9,3 +9,15 @@ By a computation backward from ourselves. Bacon.
 
 Syn.
  -- Reckoning; calculation; estimate; account.
+
+=====
+Com`pu*ta"tion, n. Etym: [L. computatio: cf. F. computation.]
+
+1. The act or process of computing; calculation; reckoning.
+By just computation of the time. Shak.
+By a computation backward from ourselves. Bacon.
+
+2. The result of computation; the amount computed.
+
+Syn.
+ -- Reckoning; calculation; estimate; account.

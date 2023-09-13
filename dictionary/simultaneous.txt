@@ -8,3 +8,14 @@ simultaneous events.
  -- Si`mul*ta"ne*ous*ness, n. Simultaneous equations (Alg.), two or
 more equations in which the values of the unknown quantities entering
 them are the same at the same time in both or in all.
+
+=====
+Si`mul*ta"ne*ous, a. Etym: [LL. simultim at the same time, fr. L.
+simul. See Simulate.]
+
+Defn: Existing, happening, or done, at the same time; as,
+simultaneous events.
+ -- Si`mul*ta"ne*ous*ly, adv.
+ -- Si`mul*ta"ne*ous*ness, n. Simultaneous equations (Alg.), two or
+more equations in which the values of the unknown quantities entering
+them are the same at the same time in both or in all.

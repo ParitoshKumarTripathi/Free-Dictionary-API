@@ -17,3 +17,22 @@ BLEACH
 Bleach, v. i.
 
 Defn: To grow white or lose color; to whiten.
+
+=====
+Bleach, v. t. [imp. & p. p. Bleached; p. pr. & vb. n. Bleaching.]
+Etym: [OE. blakien, blechen, v. t. & v. i., AS. blacian, bl, to grow
+pale; akin to Icel. bleikja, Sw. bleka, Dan. blege, D. bleeken, G.
+bleichen, AS. blac pale. See Bleak, a.]
+
+Defn: To make white, or whiter; to remove the color, or stains, from;
+to blanch; to whiten.
+The destruction of the coloring matters attached to the bodies to be
+bleached is effected either by the action of the air and light, of
+chlorine, or of sulphurous acid. Ure.
+Immortal liberty, whose look sublime Hath bleached the tyrant's cheek
+in every varying clime. Smollett.
+
+=====
+Bleach, v. i.
+
+Defn: To grow white or lose color; to whiten.

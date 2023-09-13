@@ -4,3 +4,10 @@ System)
 
 Defn: A measure of capacity, equal to ten steres, or ten cubic
 meters.
+
+=====
+Dec"a*stere, n. Etym: [L. décastère; Gr. stère a stere.] (Metric
+System)
+
+Defn: A measure of capacity, equal to ten steres, or ten cubic
+meters.

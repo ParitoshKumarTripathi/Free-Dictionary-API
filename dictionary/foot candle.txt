@@ -3,3 +3,9 @@ Foot candle. (Photom.)
 
 Defn: The amount of illumination produced by a standard candle at a
 distance of one foot.
+
+=====
+Foot candle. (Photom.)
+
+Defn: The amount of illumination produced by a standard candle at a
+distance of one foot.

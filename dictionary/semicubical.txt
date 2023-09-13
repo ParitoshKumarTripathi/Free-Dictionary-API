@@ -4,3 +4,10 @@ Sem`i*cu"bic*al, a. (Math.)
 Defn: Of or pertaining to the square root of the cube of a quantity.
 Semicubical parabola, a curve in which the ordinates are proportional
 to the square roots of the cubes of the abscissas.
+
+=====
+Sem`i*cu"bic*al, a. (Math.)
+
+Defn: Of or pertaining to the square root of the cube of a quantity.
+Semicubical parabola, a curve in which the ordinates are proportional
+to the square roots of the cubes of the abscissas.

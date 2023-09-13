@@ -11,3 +11,17 @@ Almanac.
  -- Nautical distance, the length in nautical miles of the rhumb line
 joining any two places on the earth's surface.
  -- nautical mile. see under Mile.
+
+=====
+Nau"tic*al, a. Etym: [L. nauticus, Gr. nautique. See Nave of a
+church.]
+
+Defn: Of or pertaining to seamen, to the art of navigation, or to
+ships; as, nautical skill.
+
+Syn.
+ -- Naval; marine; maritime. See Naval. Nautical almanac. See under
+Almanac.
+ -- Nautical distance, the length in nautical miles of the rhumb line
+joining any two places on the earth's surface.
+ -- nautical mile. see under Mile.

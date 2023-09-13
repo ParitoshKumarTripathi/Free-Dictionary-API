@@ -10,3 +10,16 @@ evolvent.
 
 Note: Any curve may be an evolute, the term being applied to it only
 in its relation to the involute.
+
+=====
+Ev"o*lute, n. Etym: [L. evolutus unrolled, p. p. of evolvere. See
+Evolve.] (Geom.)
+
+Defn: A curve from which another curve, called the involute or
+evolvent, is described by the end of a thread gradually wound upon
+the former, or unwound from it. See Involute. It is the locus of the
+centers of all the circles which are osculatory to the given curve or
+evolvent.
+
+Note: Any curve may be an evolute, the term being applied to it only
+in its relation to the involute.

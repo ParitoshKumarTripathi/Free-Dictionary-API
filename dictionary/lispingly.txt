@@ -2,3 +2,8 @@ LISPINGLY
 Lisp"ing*ly, adv.
 
 Defn: With a lisp; in a lisping manner.
+
+=====
+Lisp"ing*ly, adv.
+
+Defn: With a lisp; in a lisping manner.

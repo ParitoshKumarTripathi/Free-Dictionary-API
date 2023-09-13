@@ -2,3 +2,8 @@ SANK
 Sank,
 
 Defn: imp. of Sink.
+
+=====
+Sank,
+
+Defn: imp. of Sink.

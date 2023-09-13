@@ -4,3 +4,10 @@ quadrinôme.] (Alg.)
 
 Defn: A polynomial of four terms connected by the signs plus or
 minus.
+
+=====
+Quad`ri*no"mi*al, n. Etym: [Quadri- + nomial, as in binomial: cf. F.
+quadrinôme.] (Alg.)
+
+Defn: A polynomial of four terms connected by the signs plus or
+minus.

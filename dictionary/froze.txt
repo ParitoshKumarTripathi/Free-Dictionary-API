@@ -2,3 +2,8 @@ FROZE
 Froze,
 
 Defn: imp. of Freeze.
+
+=====
+Froze,
+
+Defn: imp. of Freeze.

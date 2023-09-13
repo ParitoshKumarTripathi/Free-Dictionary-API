@@ -5,3 +5,11 @@ Defn: Containing, or derived from, amidogen. Amido acid, an acid in
 which a portion of the nonacid hydrogen has been replaced by the
 amido group. The amido acids are both basic and acid.
  -- Amido group, amidogen, NH2.
+
+=====
+A*mi"do, a. Etym: [From Amide.] (Chem.)
+
+Defn: Containing, or derived from, amidogen. Amido acid, an acid in
+which a portion of the nonacid hydrogen has been replaced by the
+amido group. The amido acids are both basic and acid.
+ -- Amido group, amidogen, NH2.

@@ -11,3 +11,16 @@ Quad"ric, n.
 second degree. Spheres, spheroids, ellipsoids, paraboloids,
 hyperboloids, also cones and cylinders with circular bases, are
 quadrics.
+
+=====
+Quad"ric, a. (Math.)
+
+Defn: Of or pertaining to the second degree.
+
+=====
+Quad"ric, n.
+(a) (Alg.) A quantic of the second degree. See Quantic.
+(b) (Geom.) A surface whose equation in three variables is of the
+second degree. Spheres, spheroids, ellipsoids, paraboloids,
+hyperboloids, also cones and cylinders with circular bases, are
+quadrics.

@@ -4,3 +4,10 @@ Dig"i*tize, v. t. Etym: [Digit + -ize.]
 Defn: To finger; as, to digitize a pen. [R.] Sir T. Browne. computers
 to convert (information, a signal, an image) into a form expressible
 in binary notation
+
+=====
+Dig"i*tize, v. t. Etym: [Digit + -ize.]
+
+Defn: To finger; as, to digitize a pen. [R.] Sir T. Browne. computers
+to convert (information, a signal, an image) into a form expressible
+in binary notation

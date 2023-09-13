@@ -2,3 +2,8 @@ SHEAR STEEL
 Shear steel.
 
 Defn: See under Shear.
+
+=====
+Shear steel.
+
+Defn: See under Shear.

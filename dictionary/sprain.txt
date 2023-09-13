@@ -15,3 +15,20 @@ Defn: The act or result of spraining; lameness caused by spraining;
 as, a bad sprain of the wrist. Sprain fracture (Med.), the separation
 of a tendon from its point of insertion, with the detachment of a
 shell of bone to which the tendon is attached.
+
+=====
+Sprain, v. t. [imp. & p. p. Sprained; p. pr. & vb. n. Spraining.]
+Etym: [OF. espreindreto press, to force out, F. épreindre, fr. L.
+exprimere. See Express, v. t., and cf. Spraints.]
+
+Defn: To weaken, as a joint, ligament, or muscle, by sudden and
+excessive exertion, as by wrenching; to overstrain, or stretch
+injuriously, but without luxation; as, to sprain one's ankle.
+
+=====
+Sprain, n.
+
+Defn: The act or result of spraining; lameness caused by spraining;
+as, a bad sprain of the wrist. Sprain fracture (Med.), the separation
+of a tendon from its point of insertion, with the detachment of a
+shell of bone to which the tendon is attached.

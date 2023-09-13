@@ -4,3 +4,10 @@ In*duc"tance, n. (Elec.)
 Defn: Capacity for induction; the coefficient of self-induction.
 
  The unit of inductance is the henry.
+
+=====
+In*duc"tance, n. (Elec.)
+
+Defn: Capacity for induction; the coefficient of self-induction.
+
+ The unit of inductance is the henry.

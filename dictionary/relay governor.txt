@@ -4,3 +4,10 @@ Relay governor.
 Defn: A speed regulator, as a water-wheel governor, embodying the
 relay principle.
 [Webster 1913 Suppl.]
+
+=====
+Relay governor.
+
+Defn: A speed regulator, as a water-wheel governor, embodying the
+relay principle.
+[Webster 1913 Suppl.]

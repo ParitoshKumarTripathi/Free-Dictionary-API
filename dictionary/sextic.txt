@@ -5,3 +5,11 @@ Defn: Of the sixth degree or order.
  -- n. (Alg.)
 
 Defn: A quantic of the sixth degree.
+
+=====
+Sex"tic, a. Etym: [L. sextus sixth.] (Math.)
+
+Defn: Of the sixth degree or order.
+ -- n. (Alg.)
+
+Defn: A quantic of the sixth degree.

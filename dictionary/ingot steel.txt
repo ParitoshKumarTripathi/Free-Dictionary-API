@@ -3,3 +3,9 @@ In"got steel.
 
 Defn: Steel cast in ingots from the Bessemer converter or open-hearth
 furnace.
+
+=====
+In"got steel.
+
+Defn: Steel cast in ingots from the Bessemer converter or open-hearth
+furnace.

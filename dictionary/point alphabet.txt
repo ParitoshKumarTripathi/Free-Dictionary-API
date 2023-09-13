@@ -3,3 +3,9 @@ Point alphabet.
 
 Defn: An alphabet for the blind with a system of raised points
 corresponding to letters.
+
+=====
+Point alphabet.
+
+Defn: An alphabet for the blind with a system of raised points
+corresponding to letters.

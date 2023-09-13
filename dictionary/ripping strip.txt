@@ -2,3 +2,8 @@ RIPPING STRIP
 Ripping strip.
 
 Defn: = Ripping panel.
+
+=====
+Ripping strip.
+
+Defn: = Ripping panel.

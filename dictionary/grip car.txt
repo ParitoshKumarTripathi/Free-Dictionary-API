@@ -2,3 +2,8 @@ GRIP CAR
 Grip car.
 
 Defn: A car with a grip to clutch a traction cable.
+
+=====
+Grip car.
+
+Defn: A car with a grip to clutch a traction cable.

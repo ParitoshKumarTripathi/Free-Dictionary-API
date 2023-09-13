@@ -4,3 +4,10 @@ Cru"node (kr"nd), n. Etym: [Prob. fr. L. crux a cross + E. node.]
 
 Defn: A point where one branch of a curve crosses another branch. See
 Double point, under Double, a.
+
+=====
+Cru"node (kr"nd), n. Etym: [Prob. fr. L. crux a cross + E. node.]
+(Geom.)
+
+Defn: A point where one branch of a curve crosses another branch. See
+Double point, under Double, a.
